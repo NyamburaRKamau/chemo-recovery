@@ -1,0 +1,906 @@
+case_id,vital_status,gender,race,age_at_index,age_at_diagnosis,days_to_last_follow_up,primary_diagnosis,age_years,follow_up_years,skin_tone,fitzpatrick,skin_tone_enc,race_enc
+e3935ce4-64d3-4a66-ba11-d308b844b410,Alive,female,white,65,24053.0,24.0,"Metaplastic carcinoma, NOS",65.9,0.06570841889117043,Light,2,1,4
+e3b555aa-7f0a-49c6-9b13-182c61a144c1,Alive,female,white,71,25966.0,595.0,"Infiltrating duct carcinoma, NOS",71.1,1.6290212183436004,Light,3,1,4
+17ca61a2-607a-45ff-88fa-ef72e80bf891,Alive,female,white,77,28233.0,727.0,"Infiltrating duct carcinoma, NOS",77.3,1.9904175222450375,Light,2,1,4
+7d681cc6-689d-41c8-9e84-e13733089ec9,Alive,female,asian,54,20028.0,1150.0,"Infiltrating duct carcinoma, NOS",54.8,3.1485284052019167,Medium,4,2,1
+17f275c1-a0d4-487d-8f02-ea279584b4cd,Alive,female,white,52,19028.0,1728.0,"Infiltrating duct carcinoma, NOS",52.1,4.731006160164271,Light,1,1,4
+189e1f27-7738-413a-a4d4-97d41d592a13,Alive,female,black or african american,46,16971.0,996.0,"Infiltrating duct carcinoma, NOS",46.5,2.726899383983573,Dark,5,0,2
+95c53ecf-d8f1-4bcb-9b1a-c9a0542939f0,Alive,female,black or african american,73,26869.0,323.0,"Infiltrating duct carcinoma, NOS",73.6,0.8843258042436687,Dark,5,0,2
+c0f88fc5-56b0-4255-bbd1-9a21ced8b37b,Alive,female,white,53,19706.0,554.0,"Infiltrating duct carcinoma, NOS",54.0,1.516769336071184,Light,3,1,4
+0f64edec-0f1f-4025-8a53-75f9534f7828,Alive,female,white,69,25289.0,1247.0,"Infiltrating duct carcinoma, NOS",69.2,3.4140999315537304,Light,2,1,4
+c25898b4-eb33-42f4-bf3f-bf532a929e7d,Alive,female,white,46,16817.0,622.0,"Lobular carcinoma, NOS",46.0,1.702943189596167,Light,2,1,4
+195b6731-6ae6-416e-a345-0eb8874a0ca2,Alive,female,white,59,21640.0,375.0,"Infiltrating duct carcinoma, NOS",59.2,1.0266940451745379,Light,1,1,4
+7f97971b-2818-4e4b-9c9e-7c0246f9484c,Alive,female,white,47,17426.0,1461.0,"Infiltrating duct carcinoma, NOS",47.7,4.0,Light,3,1,4
+c364e81c-eb1e-4870-ab37-9c661f5f2e3d,Alive,female,not reported,64,23653.0,1972.0,"Infiltrating duct carcinoma, NOS",64.8,5.3990417522245036,Unknown,5,3,3
+bb8d42d3-ad65-4d88-ae1d-f9aadfc7962d,Alive,female,white,69,25230.0,350.0,"Lobular carcinoma, NOS",69.1,0.9582477754962354,Light,1,1,4
+c462e422-eb8d-4daf-9897-2a9c6cbd783a,Alive,female,white,59,21793.0,437.0,"Infiltrating duct carcinoma, NOS",59.7,1.1964407939767283,Light,1,1,4
+c57835be-77ab-4cf5-9b23-62c11a7b2eaf,Alive,female,white,76,27865.0,588.0,"Lobular carcinoma, NOS",76.3,1.6098562628336757,Light,1,1,4
+9f93ea0a-1687-44e0-9e8a-eeb4097d471c,Alive,female,white,46,17026.0,1616.0,"Infiltrating duct carcinoma, NOS",46.6,4.424366872005476,Light,2,1,4
+3828b534-908e-4953-a3fb-07d01cf49c7d,Alive,female,not reported,58,21520.0,365.0,"Infiltrating duct carcinoma, NOS",58.9,0.999315537303217,Unknown,4,3,3
+14267783-5624-4fe5-ba81-9d67f1017474,Alive,female,white,60,22199.0,476.0,"Lobular carcinoma, NOS",60.8,1.3032169746748803,Light,2,1,4
+c694615c-b1c6-499c-8058-995633ebf948,Alive,female,white,68,25119.0,200.0,"Infiltrating duct carcinoma, NOS",68.8,0.5475701574264202,Light,1,1,4
+a06ff6ae-b0dd-4516-a75c-0db71694b46b,Alive,female,black or african american,52,19169.0,216.0,"Infiltrating duct carcinoma, NOS",52.5,0.5913757700205339,Dark,6,0,2
+a0963e93-b63e-4de2-86c1-81302e271d3e,Alive,female,white,58,21309.0,2707.0,"Infiltrating duct carcinoma, NOS",58.3,7.411362080766598,Light,1,1,4
+738e1acc-1f0c-4a96-9c8a-222727ef5af8,Alive,female,white,40,14723.0,2632.0,"Lobular carcinoma, NOS",40.3,7.2060232717316905,Light,1,1,4
+a12fd22a-7f84-4b6e-b6d8-012e38eb73d7,Alive,female,white,65,23855.0,2632.0,"Infiltrating duct carcinoma, NOS",65.3,7.2060232717316905,Light,2,1,4
+64975923-d032-4182-8565-59fc37127d8d,Alive,female,white,61,22448.0,506.0,"Infiltrating duct carcinoma, NOS",61.5,1.3853524982888432,Light,2,1,4
+e8ea576b-eb16-44f7-b241-daefc1375388,Alive,female,black or african american,48,17640.0,266.0,"Infiltrating duct carcinoma, NOS",48.3,0.7282683093771389,Dark,6,0,2
+9da462b0-93c2-4305-89f6-7199a30399a7,Alive,female,white,40,14920.0,2136.0,"Lobular carcinoma, NOS",40.8,5.848049281314168,Light,1,1,4
+c31900a4-5dcd-4022-97ac-638e86e889e4,Alive,female,black or african american,52,19074.0,1448.0,"Infiltrating duct carcinoma, NOS",52.2,3.9644079397672827,Dark,6,0,2
+546248b0-22a0-4b70-a437-76fb0a238a0d,Alive,female,white,59,21910.0,242.0,"Infiltrating duct carcinoma, NOS",60.0,0.6625598904859685,Light,2,1,4
+bb026999-0aab-4232-96d7-2c93b6c9691d,Alive,female,white,47,17372.0,1206.0,Mucinous adenocarcinoma,47.6,3.3018480492813143,Light,1,1,4
+a6502f17-6bee-4d5a-8520-06364593d39c,Alive,female,white,51,18850.0,715.0,"Lobular carcinoma, NOS",51.6,1.9575633127994525,Light,1,1,4
+56203436-8634-4fd0-96b5-ba6be9d87857,Alive,female,white,89,32872.0,0.0,"Infiltrating duct carcinoma, NOS",90.0,0.0,Light,1,1,4
+27dfb9d4-3a2c-44bc-9acf-8f638d3f3004,Alive,female,white,62,22714.0,328.0,"Infiltrating duct carcinoma, NOS",62.2,0.8980150581793293,Light,3,1,4
+8cf54607-01ce-42b0-9bd9-8627edd9f3b7,Alive,female,asian,52,19117.0,370.0,"Infiltrating duct carcinoma, NOS",52.3,1.0130047912388775,Medium,4,2,1
+095c7985-3842-494f-b591-706ad1cd2133,Alive,female,white,29,10616.0,1866.0,"Infiltrating duct carcinoma, NOS",29.1,5.108829568788501,Light,3,1,4
+b5b99291-507e-4b68-a039-9a0f571f55df,Alive,female,black or african american,69,25515.0,1234.0,Infiltrating duct mixed with other types of carcinoma,69.9,3.378507871321013,Dark,5,0,2
+8d9b50d1-139b-4447-ae9c-e54764d9e2a7,Alive,female,black or african american,43,15996.0,51.0,"Infiltrating duct carcinoma, NOS",43.8,0.13963039014373715,Dark,5,0,2
+8db69f1d-72e2-40ba-ad8a-cf228499840d,Alive,female,asian,59,21613.0,396.0,"Metaplastic carcinoma, NOS",59.2,1.0841889117043122,Medium,4,2,1
+d1fd8ed2-be13-4272-b31e-df86911db3b1,Alive,female,white,47,17490.0,84.0,"Infiltrating duct carcinoma, NOS",47.9,0.2299794661190965,Light,2,1,4
+d2f2560c-ec80-4fea-9474-c47a2e85ea95,Alive,female,white,41,15324.0,997.0,"Infiltrating duct carcinoma, NOS",42.0,2.729637234770705,Light,1,1,4
+1f99e4d4-4e8b-4cc1-a129-227a2a82780e,Alive,female,white,60,22023.0,2971.0,"Lobular carcinoma, NOS",60.3,8.134154688569472,Light,2,1,4
+d3b9d925-ae04-4721-8bfc-50b41225bc74,Alive,female,white,79,29115.0,1363.0,"Infiltrating duct carcinoma, NOS",79.7,3.7316906228610542,Light,1,1,4
+92b5de82-0221-4df1-8094-80f40c0bb4fa,Alive,female,white,35,12841.0,2278.0,"Infiltrating duct carcinoma, NOS",35.2,6.236824093086927,Light,3,1,4
+d4a1ecdc-399c-4f82-aa7a-68a0c82ded3f,Alive,female,white,52,19340.0,,"Infiltrating duct carcinoma, NOS",53.0,,Light,1,1,4
+9676e46b-8f29-43cd-ab65-eb6a535cced4,Alive,female,black or african american,34,12755.0,463.0,"Infiltrating duct carcinoma, NOS",34.9,1.267624914442163,Dark,6,0,2
+42e47f3a-dff7-41e4-8f84-146d97e8ab72,Alive,female,white,80,29256.0,541.0,"Infiltrating duct carcinoma, NOS",80.1,1.4811772758384667,Light,2,1,4
+d5be2ab3-f748-480d-954b-385cf01b4c81,Alive,female,white,36,13243.0,519.0,"Infiltrating duct carcinoma, NOS",36.3,1.4209445585215605,Light,2,1,4
+e8614b7d-132e-4b4e-b1ae-df8bb4f2d4d4,Alive,female,asian,48,17597.0,1208.0,Infiltrating lobular mixed with other types of carcinoma,48.2,3.3073237508555784,Medium,4,2,1
+d5e655fe-3fbc-47b0-ba23-1d1dd01d591c,Alive,female,white,71,26248.0,70.0,"Lobular carcinoma, NOS",71.9,0.19164955509924708,Light,1,1,4
+d81594d9-dd6a-45c3-8bad-61960611d78d,Alive,female,black or african american,54,19985.0,545.0,"Infiltrating duct carcinoma, NOS",54.7,1.4921286789869952,Dark,6,0,2
+d69e59a8-b10b-46f5-b859-b6c178d90506,Alive,female,white,57,21014.0,931.0,"Infiltrating duct carcinoma, NOS",57.5,2.5489390828199863,Light,3,1,4
+d7308344-5bab-4073-bb4f-4d8cd8d7bd17,Alive,female,white,50,18621.0,762.0,"Infiltrating duct carcinoma, NOS",51.0,2.086242299794661,Light,3,1,4
+ed2617c3-5d3b-4688-9283-0f8a10e0b10d,Alive,female,white,41,15050.0,785.0,Mucinous adenocarcinoma,41.2,2.1492128678986995,Light,2,1,4
+d7cac141-9269-4733-83ce-e1bc0b503254,Alive,female,not reported,73,26723.0,0.0,"Infiltrating duct carcinoma, NOS",73.2,0.0,Unknown,5,3,3
+fa176764-a76f-44c7-b97a-cd6d21e052be,Alive,female,black or african american,41,15283.0,2306.0,"Infiltrating duct carcinoma, NOS",41.8,6.313483915126626,Dark,5,0,2
+d8f8064f-02ef-4fed-942b-714cbe5e8455,Alive,female,black or african american,70,25867.0,376.0,"Infiltrating duct carcinoma, NOS",70.8,1.0294318959616702,Dark,5,0,2
+23c21dea-3713-408f-ba56-f7c586e9f206,Alive,female,white,63,23116.0,92.0,"Infiltrating duct carcinoma, NOS",63.3,0.2518822724161533,Light,2,1,4
+d9a1c06f-7b50-46b0-878e-89e8c31863ae,Alive,female,black or african american,43,16022.0,215.0,"Infiltrating duct carcinoma, NOS",43.9,0.5886379192334018,Dark,5,0,2
+0b172e29-6166-4863-803d-a0a010887c11,Alive,female,white,71,26269.0,4929.0,"Infiltrating duct carcinoma, NOS",71.9,13.494866529774127,Light,1,1,4
+182c4bdf-2c58-4303-b034-459da86b9d90,Alive,female,white,63,23057.0,725.0,"Lobular carcinoma, NOS",63.1,1.9849418206707734,Light,3,1,4
+da286247-e8bb-4941-a2af-2453fe61cd02,Alive,female,white,53,19464.0,1051.0,"Lobular carcinoma, NOS",53.3,2.8774811772758384,Light,2,1,4
+da840a22-8d30-4682-bbd0-8fa87bd40528,Alive,female,white,61,22583.0,694.0,"Infiltrating duct carcinoma, NOS",61.8,1.9000684462696784,Light,1,1,4
+dc696e3c-f448-468f-a576-f4429be0338a,Alive,female,white,62,22928.0,1347.0,"Lobular carcinoma, NOS",62.8,3.6878850102669403,Light,2,1,4
+db3e1ce8-4a05-4bfc-b5ae-13cf789369e1,Alive,female,black or african american,48,17702.0,1220.0,"Infiltrating duct carcinoma, NOS",48.5,3.3401779603011637,Dark,5,0,2
+b5fba77b-1f50-4e71-95b2-566afba4bdd7,Alive,female,white,48,17660.0,2385.0,"Infiltrating duct carcinoma, NOS",48.4,6.529774127310062,Light,3,1,4
+6f0fd68f-ed6a-4c9e-be02-c97ba4950f76,Alive,female,white,46,16948.0,1330.0,"Lobular carcinoma, NOS",46.4,3.6413415468856947,Light,1,1,4
+074e8b06-3929-4896-9263-3b80ad6a355b,Alive,female,white,61,22587.0,2976.0,"Infiltrating duct carcinoma, NOS",61.8,8.147843942505133,Light,3,1,4
+dba9beec-5e51-48c0-9229-0ee286a02a1a,Alive,male,white,58,21386.0,2486.0,"Infiltrating duct carcinoma, NOS",58.6,6.806297056810404,Light,3,1,4
+59bf0ce4-715a-4017-bccb-c59916e78324,Alive,female,not reported,66,24411.0,760.0,"Infiltrating duct carcinoma, NOS",66.8,2.080766598220397,Unknown,3,3,3
+dbf6f981-15cc-40ad-91ac-a66360405fbd,Alive,female,black or african american,54,20080.0,644.0,"Infiltrating duct carcinoma, NOS",55.0,1.7631759069130732,Dark,5,0,2
+7b605fb6-d077-401e-b870-b87ddf505f82,Alive,female,not reported,80,29370.0,822.0,"Infiltrating duct carcinoma, NOS",80.4,2.2505133470225873,Unknown,5,3,3
+dc657ca8-98e8-4ec4-a513-1b848be0e85d,Alive,female,white,52,19216.0,392.0,"Infiltrating duct carcinoma, NOS",52.6,1.0732375085557837,Light,2,1,4
+6fa2a667-9c36-4526-8a58-1975e863a806,Alive,female,black or african american,78,28625.0,2222.0,"Infiltrating duct carcinoma, NOS",78.4,6.083504449007529,Dark,6,0,2
+dcd5e079-813a-4c1a-b320-0931468d2bbc,Alive,female,white,79,29199.0,366.0,"Infiltrating duct carcinoma, NOS",79.9,1.002053388090349,Light,1,1,4
+7032ec9c-e96b-4642-a7b6-d0aee7a3add2,Alive,female,white,80,29285.0,968.0,"Infiltrating duct carcinoma, NOS",80.2,2.650239561943874,Light,2,1,4
+71626753-cc34-4731-abc0-ae188b0964e7,Alive,female,white,42,15469.0,2372.0,"Infiltrating duct carcinoma, NOS",42.4,6.494182067077344,Light,3,1,4
+0bc5744c-5fa3-45bb-87d0-70a02068b392,Alive,female,black or african american,30,11204.0,2041.0,"Infiltrating duct carcinoma, NOS",30.7,5.587953456536619,Dark,6,0,2
+0c1023c0-d2ce-4940-8047-7642f1dc3965,Alive,female,white,55,20448.0,806.0,"Infiltrating duct carcinoma, NOS",56.0,2.206707734428474,Light,2,1,4
+72cd1b17-d349-4551-83f7-3062ce9db865,Alive,female,white,62,22961.0,1505.0,Infiltrating duct and lobular carcinoma,62.9,4.120465434633813,Light,2,1,4
+0dca98b0-f43e-45b6-9a02-00092c78678c,Alive,female,white,72,26588.0,397.0,"Infiltrating duct carcinoma, NOS",72.8,1.0869267624914443,Light,2,1,4
+739cb132-51e9-41be-8064-311a13da0d74,Alive,female,white,64,23387.0,839.0,"Infiltrating duct carcinoma, NOS",64.0,2.297056810403833,Light,2,1,4
+0ec70e40-07df-461d-8ff9-351240a0d454,Alive,female,black or african american,62,22966.0,368.0,"Carcinoma, NOS",62.9,1.0075290896646132,Dark,6,0,2
+7451af3c-acc0-4d79-8429-6b8be96911d8,Alive,female,white,79,29358.0,,Mucinous adenocarcinoma,80.4,,Light,3,1,4
+7486a2b3-b09f-4e9c-9864-8b51b58d9fb3,Alive,female,white,49,17969.0,373.0,"Lobular carcinoma, NOS",49.2,1.0212183436002737,Light,2,1,4
+26573441-eedb-4364-966c-e7f803deef19,Alive,female,white,54,19767.0,2197.0,"Infiltrating duct carcinoma, NOS",54.1,6.015058179329227,Light,1,1,4
+752ad011-79e0-494f-9868-98bf6feb28f8,Alive,female,white,37,13743.0,1434.0,"Infiltrating duct carcinoma, NOS",37.6,3.9260780287474333,Light,2,1,4
+9964f447-92ad-4d1e-af20-11cf84fab7b0,Alive,female,black or african american,55,20102.0,2072.0,Infiltrating duct and lobular carcinoma,55.0,5.672826830937714,Dark,6,0,2
+271e8024-a008-4bf0-9f6e-177f60096b1b,Alive,female,white,76,28013.0,554.0,Infiltrating duct and lobular carcinoma,76.7,1.516769336071184,Light,2,1,4
+99e32c59-aa73-43fa-88c9-399ddadb2c72,Alive,female,white,45,16623.0,1027.0,"Infiltrating duct carcinoma, NOS",45.5,2.811772758384668,Light,3,1,4
+27c1c094-690b-4973-8900-a797ad88f98c,Alive,female,white,53,19591.0,398.0,"Lobular carcinoma, NOS",53.6,1.0896646132785763,Light,2,1,4
+9b13927c-7357-44fd-8385-92ae6a656b7d,Alive,female,white,26,9840.0,2082.0,"Infiltrating duct carcinoma, NOS",26.9,5.700205338809035,Light,2,1,4
+295cf595-4a29-46a3-a0c5-e5f08f947031,Alive,female,white,50,18514.0,501.0,"Infiltrating duct carcinoma, NOS",50.7,1.3716632443531827,Light,2,1,4
+9c1ceb7d-6fed-4c2f-a89a-bf3c5b15ca58,Alive,female,white,53,19489.0,1093.0,"Infiltrating duct carcinoma, NOS",53.4,2.9924709103353866,Light,1,1,4
+9c895825-d6f6-4d14-a662-23212200f6e5,Alive,female,white,62,22780.0,2231.0,"Lobular carcinoma, NOS",62.4,6.108145106091718,Light,1,1,4
+9ce7ce09-4409-4fa3-9f78-b2b24716f860,Alive,female,white,53,19533.0,1099.0,"Infiltrating duct carcinoma, NOS",53.5,3.0088980150581794,Light,1,1,4
+dd96a9c7-899c-47cd-a0f9-b149ed07a5d6,Alive,female,white,54,19822.0,1688.0,"Infiltrating duct carcinoma, NOS",54.3,4.621492128678987,Light,2,1,4
+dddd8e2f-e540-418a-b02e-698d18a12c14,Alive,female,white,72,26734.0,,Not Reported,73.2,,Light,2,1,4
+9d95a65b-e41d-4f93-92d4-99dce29ff40d,Alive,female,white,57,20863.0,1074.0,"Infiltrating duct carcinoma, NOS",57.1,2.940451745379877,Light,2,1,4
+9ddc014d-9a8b-407b-845f-452a73f08e5e,Alive,female,white,62,22936.0,643.0,Infiltrating lobular mixed with other types of carcinoma,62.8,1.7604380561259412,Light,3,1,4
+a6e11b30-3ae8-4dd1-b04c-a730c6a79746,Alive,female,white,51,20127.0,,Not Reported,55.1,,Light,1,1,4
+a6e5f869-1182-4f81-b4bb-cf55261c8f3f,Alive,female,white,56,20629.0,563.0,"Lobular carcinoma, NOS",56.5,1.541409993155373,Light,2,1,4
+66072c06-f251-4f0b-b6ae-12b407c52cc6,Alive,female,white,51,18851.0,54.0,"Infiltrating duct carcinoma, NOS",51.6,0.14784394250513347,Light,3,1,4
+6623fc5e-00be-4476-967a-cbd55f676ea6,Alive,female,white,50,18371.0,348.0,"Lobular carcinoma, NOS",50.3,0.9527720739219713,Light,1,1,4
+6644fd4e-d2fe-4785-a73c-0f36fcc740e2,Alive,female,white,67,24826.0,852.0,"Infiltrating duct carcinoma, NOS",68.0,2.3326488706365502,Light,1,1,4
+ba89cb4f-cd63-47b1-9550-76fdaff89f2e,Alive,female,black or african american,34,15590.0,,"Infiltrating duct carcinoma, NOS",42.7,,Dark,5,0,2
+66fa504c-4ae4-49ac-9355-1e063776dc0d,Alive,female,white,52,19030.0,2590.0,"Infiltrating duct carcinoma, NOS",52.1,7.091033538672143,Light,1,1,4
+baf2afc8-f16c-488f-947c-efc9083c6bef,Alive,female,white,54,20072.0,577.0,"Infiltrating duct carcinoma, NOS",55.0,1.5797399041752225,Light,3,1,4
+67c73260-a242-4bba-87c5-d2302556dff7,Alive,female,white,50,18535.0,762.0,"Lobular carcinoma, NOS",50.7,2.086242299794661,Light,3,1,4
+67eef990-5ff4-45d1-843d-d22d7848f130,Alive,female,white,78,28596.0,1043.0,Infiltrating duct and lobular carcinoma,78.3,2.855578370978782,Light,2,1,4
+680f23a9-fcce-493e-b908-27c1ad202e4c,Alive,female,white,66,24315.0,530.0,Infiltrating duct mixed with other types of carcinoma,66.6,1.4510609171800137,Light,3,1,4
+bd5374c9-7f36-457f-b66b-7cc7ff64224e,Alive,female,white,72,26642.0,1162.0,"Lobular carcinoma, NOS",72.9,3.1813826146475015,Light,3,1,4
+bdd08ec8-8892-4273-8f21-6fde0f23c52d,Alive,female,white,75,27627.0,533.0,"Lobular carcinoma, NOS",75.6,1.45927446954141,Light,1,1,4
+6956473b-92e5-4069-a26b-b48e280e76f2,Alive,female,white,40,17996.0,,Not Reported,49.3,,Light,3,1,4
+4d51159f-ab2f-40e3-a363-847c3654431e,Alive,female,asian,89,32872.0,0.0,"Infiltrating duct carcinoma, NOS",90.0,0.0,Medium,4,2,1
+69fc24fc-cfe2-487a-935f-1a954b30b709,Alive,female,black or african american,62,22772.0,996.0,"Infiltrating duct carcinoma, NOS",62.3,2.726899383983573,Dark,6,0,2
+753d5d49-3b40-4737-9d4c-b1ec29cc2692,Alive,female,white,57,21160.0,3226.0,"Infiltrating duct carcinoma, NOS",57.9,8.83230663928816,Light,3,1,4
+757df7b0-4774-4493-98bf-999ded9ac86e,Alive,female,white,63,23229.0,1673.0,"Infiltrating duct carcinoma, NOS",63.6,4.5804243668720055,Light,2,1,4
+75b3fe55-1a63-426e-867e-2ef52f54778d,Alive,female,black or african american,47,18830.0,,"Infiltrating duct carcinoma, NOS",51.6,,Dark,5,0,2
+6b923e30-2ddc-407f-91b1-c202f1373fbb,Alive,female,asian,80,29463.0,0.0,"Infiltrating duct carcinoma, NOS",80.7,0.0,Medium,3,2,1
+6c0066e3-96df-4870-bcd3-98cda64082e9,Alive,female,white,69,25408.0,293.0,"Infiltrating duct carcinoma, NOS",69.6,0.8021902806297057,Light,2,1,4
+6cb6f179-defd-4661-af0a-c353b74c0c49,Alive,female,white,49,17930.0,627.0,"Infiltrating duct carcinoma, NOS",49.1,1.7166324435318274,Light,3,1,4
+77e25ae8-82ec-4dea-8e62-1176f27e47ba,Alive,female,white,54,19846.0,1015.0,"Lobular carcinoma, NOS",54.3,2.7789185489390826,Light,3,1,4
+6cdc0d53-f813-4101-81e5-9bee68270536,Alive,female,white,46,17152.0,1928.0,"Infiltrating duct carcinoma, NOS",47.0,5.278576317590692,Light,1,1,4
+6d24e675-2fa4-4102-861f-7516650b3049,Alive,female,black or african american,49,18041.0,450.0,"Infiltrating duct carcinoma, NOS",49.4,1.2320328542094456,Dark,6,0,2
+7861a5f2-8910-4bcb-9c34-f79c5acd6e21,Alive,female,not reported,42,15369.0,518.0,"Infiltrating duct carcinoma, NOS",42.1,1.4182067077344285,Unknown,4,3,3
+1026e0bf-5640-4fa5-b65f-4f11e8e76b18,Alive,male,white,48,17708.0,496.0,Invasive micropapillary carcinoma,48.5,1.3579739904175223,Light,1,1,4
+78e1da41-127c-4e9c-aaaa-77a0d94c31d0,Alive,female,not reported,65,24017.0,881.0,"Infiltrating duct carcinoma, NOS",65.8,2.412046543463381,Unknown,3,3,3
+10c9be1e-2cc0-45e4-8d2c-c013ea63ef05,Alive,female,white,55,20352.0,210.0,"Infiltrating duct carcinoma, NOS",55.7,0.5749486652977412,Light,2,1,4
+796b593f-5886-4a27-bf94-7ea8df325e1a,Alive,female,white,39,15007.0,,"Infiltrating duct carcinoma, NOS",41.1,,Light,3,1,4
+115bc72c-116f-40c1-be9b-e3dd7650efae,Alive,female,white,62,22683.0,575.0,"Infiltrating duct carcinoma, NOS",62.1,1.5742642026009583,Light,2,1,4
+124b693c-77dc-4fa8-b703-54e8b5054a92,Alive,female,not reported,56,20483.0,79.0,"Lobular carcinoma, NOS",56.1,0.216290212183436,Unknown,4,3,3
+125b0a9a-6cbe-4207-9178-e7ff03487e87,Alive,female,white,43,15977.0,3607.0,Infiltrating duct and lobular carcinoma,43.7,9.875427789185489,Light,2,1,4
+7c2a8440-0206-4039-8474-8d62f6c7de0c,Alive,female,white,70,25658.0,10.0,"Infiltrating duct carcinoma, NOS",70.2,0.02737850787132101,Light,2,1,4
+65cac997-4d39-4501-85ec-4fcb328a8eb5,Alive,female,black or african american,49,18171.0,2108.0,"Infiltrating duct carcinoma, NOS",49.7,5.771389459274469,Dark,6,0,2
+00807dae-9f4a-4fd1-aac2-82eb11bf2afb,Alive,female,white,50,18345.0,3102.0,Apocrine adenocarcinoma,50.2,8.492813141683778,Light,3,1,4
+00a2d166-78c9-4687-a195-3d6315c27574,Alive,female,white,56,20713.0,5.0,"Infiltrating duct carcinoma, NOS",56.7,0.013689253935660506,Light,1,1,4
+00b11ca8-8540-4a3d-b602-ec754b00230b,Alive,female,white,61,22515.0,,"Intraductal carcinoma, noninfiltrating, NOS",61.6,,Light,2,1,4
+42f6f503-4cf6-4a8e-b5fe-b44bccf6b38b,Alive,female,white,40,14626.0,626.0,"Infiltrating duct carcinoma, NOS",40.0,1.7138945927446954,Light,2,1,4
+43029932-feb0-4658-97fa-645c1e775009,Alive,female,white,46,16974.0,2920.0,"Infiltrating duct carcinoma, NOS",46.5,7.994524298425736,Light,1,1,4
+01263518-5f7c-49dc-8d7e-84b0c03a6a63,Alive,female,not reported,76,27942.0,304.0,"Infiltrating duct carcinoma, NOS",76.5,0.8323066392881588,Unknown,3,3,3
+43b3bf47-7313-4dfb-952a-ec0b9d48e16c,Alive,female,black or african american,66,24139.0,620.0,"Infiltrating duct carcinoma, NOS",66.1,1.6974674880219027,Dark,6,0,2
+01674b2c-5cf2-478f-84a1-f69c39f47bd4,Alive,female,white,59,21750.0,915.0,"Infiltrating duct carcinoma, NOS",59.5,2.5051334702258727,Light,2,1,4
+43cc074d-b85a-4b0b-8feb-833094ffc565,Alive,female,white,61,22325.0,160.0,"Metaplastic carcinoma, NOS",61.1,0.4380561259411362,Light,1,1,4
+01eef340-598c-4205-a990-cec190ac2ca5,Alive,female,white,40,14669.0,4285.0,"Infiltrating duct carcinoma, NOS",40.2,11.731690622861054,Light,1,1,4
+02bbb632-0f7f-439d-b8f0-c86a06237424,Alive,female,white,65,23851.0,1234.0,"Lobular carcinoma, NOS",65.3,3.378507871321013,Light,3,1,4
+02e6f999-24f2-4ad2-9b92-df3ee2b082e5,Alive,female,white,59,21898.0,480.0,"Infiltrating duct carcinoma, NOS",60.0,1.3141683778234086,Light,1,1,4
+03565036-b6d3-432f-8d9a-7099818e0788,Alive,female,white,64,23404.0,1547.0,"Infiltrating duct carcinoma, NOS",64.1,4.2354551676933605,Light,1,1,4
+03ab1e9f-4918-404d-b178-3a4fd929c5e8,Alive,female,asian,34,12729.0,379.0,"Infiltrating duct carcinoma, NOS",34.9,1.0376454483230664,Medium,4,2,1
+5700c1b3-922a-4401-8ab8-89028908d696,Alive,female,white,58,21344.0,2193.0,"Infiltrating duct carcinoma, NOS",58.4,6.0041067761806985,Light,3,1,4
+04af44fc-c487-4005-b3cb-cb64815824a2,Alive,female,white,66,24322.0,5042.0,"Infiltrating duct carcinoma, NOS",66.6,13.804243668720055,Light,1,1,4
+58959e88-54e2-4558-9664-2effda7403dc,Alive,female,white,49,18021.0,798.0,Infiltrating duct mixed with other types of carcinoma,49.3,2.184804928131417,Light,1,1,4
+58c56d4b-3f85-4aad-a779-5f9e1791677d,Alive,female,white,75,27705.0,1639.0,Pleomorphic carcinoma,75.9,4.487337440109514,Light,2,1,4
+59d60247-e549-4326-a672-50b05c13a291,Alive,female,white,54,19975.0,662.0,"Lobular carcinoma, NOS",54.7,1.8124572210814511,Light,2,1,4
+5a17dcd9-5ced-4a69-8069-23c7fd0649d1,Alive,female,white,51,18942.0,635.0,"Infiltrating duct carcinoma, NOS",51.9,1.7385352498288844,Light,2,1,4
+5a53ec47-e63f-44a2-8078-87659544fb04,Alive,female,white,46,17157.0,648.0,"Lobular carcinoma, NOS",47.0,1.7741273100616017,Light,2,1,4
+5a57dc25-d252-4b22-b192-4de630d7002f,Alive,female,white,44,16310.0,1572.0,"Infiltrating duct carcinoma, NOS",44.7,4.303901437371663,Light,2,1,4
+5aca16ca-4516-4e27-8249-6914029a7ebf,Alive,female,white,60,22094.0,4159.0,"Lobular carcinoma, NOS",60.5,11.38672142368241,Light,3,1,4
+5cdae21d-eee5-478f-932a-0f51fcf5f031,Alive,female,white,56,20795.0,1224.0,Infiltrating duct and lobular carcinoma,56.9,3.351129363449692,Light,1,1,4
+5dc1bee9-c44d-4fdc-9ae5-83426c4d6880,Alive,female,white,27,9873.0,2991.0,"Infiltrating duct carcinoma, NOS",27.0,8.188911704312115,Light,1,1,4
+3e25056d-d137-49f5-abaa-f68509426600,Alive,female,white,54,19794.0,10.0,"Infiltrating duct carcinoma, NOS",54.2,0.02737850787132101,Light,2,1,4
+5e2cbc56-97f9-4b94-ade2-a3f739bcc7be,Alive,female,white,80,29529.0,371.0,"Lobular carcinoma, NOS",80.8,1.0157426420260096,Light,2,1,4
+3e775c99-ceda-4246-8d6f-0f58ca5097c8,Alive,female,white,59,21602.0,590.0,"Infiltrating duct carcinoma, NOS",59.1,1.6153319644079398,Light,1,1,4
+5e670fec-8992-44bf-8657-f7f9a272306b,Alive,female,white,70,25771.0,4088.0,"Lobular carcinoma, NOS",70.6,11.19233401779603,Light,2,1,4
+3ea9412b-429e-4dcf-90cd-c53be06885a1,Alive,female,white,50,18561.0,1542.0,"Infiltrating duct carcinoma, NOS",50.8,4.2217659137577,Light,1,1,4
+6e6b7742-a562-490b-bb72-04a5653852e4,Alive,female,white,62,22883.0,2406.0,"Infiltrating duct carcinoma, NOS",62.7,6.587268993839836,Light,2,1,4
+6f6afd31-b5dd-48ab-b18f-6390ba18a5f0,Alive,female,white,45,16787.0,463.0,"Infiltrating duct carcinoma, NOS",46.0,1.267624914442163,Light,1,1,4
+8c51bbcb-7c8d-47ad-9193-70ca157c6900,Alive,female,white,51,18771.0,3030.0,"Infiltrating duct carcinoma, NOS",51.4,8.295687885010267,Light,2,1,4
+05506f4c-e701-4a9d-ae06-97f066aade43,Alive,female,white,62,22798.0,10.0,"Infiltrating duct carcinoma, NOS",62.4,0.02737850787132101,Light,2,1,4
+8cd1ba0b-ead9-4661-a796-6c9dbf1c42cd,Alive,female,white,75,27605.0,40.0,Mucinous adenocarcinoma,75.6,0.10951403148528405,Light,3,1,4
+05af737d-89aa-49b6-97b2-28b8ac8bd2cf,Alive,female,white,79,28876.0,530.0,"Lobular carcinoma, NOS",79.1,1.4510609171800137,Light,1,1,4
+45c3975c-d333-4237-93f7-e12dc2451c38,Alive,female,black or african american,69,25282.0,252.0,"Infiltrating duct carcinoma, NOS",69.2,0.6899383983572895,Dark,5,0,2
+478eb8aa-50b8-4ce5-98e4-d518ede4b174,Alive,female,white,43,15980.0,495.0,"Infiltrating duct carcinoma, NOS",43.8,1.3552361396303902,Light,1,1,4
+077506ea-8f11-405d-bb8e-3c9924fe54d0,Alive,female,white,68,25089.0,1013.0,"Lobular carcinoma, NOS",68.7,2.7734428473648185,Light,3,1,4
+48ff0420-0f19-4e9d-a75d-6c54949a461a,Alive,female,black or african american,47,17438.0,2596.0,"Infiltrating duct carcinoma, NOS",47.7,7.107460643394935,Dark,6,0,2
+084c6aec-94f7-4090-8f3f-59fa9e89721a,Alive,female,white,76,28084.0,1051.0,"Infiltrating duct carcinoma, NOS",76.9,2.8774811772758384,Light,1,1,4
+491d5ebb-e9ab-4b17-acb8-630ff9fef0f2,Alive,female,white,52,19030.0,3004.0,Infiltrating duct and lobular carcinoma,52.1,8.224503764544833,Light,2,1,4
+08da7c4c-3067-4bcf-9d7a-78566df72e69,Alive,female,black or african american,61,22449.0,7777.0,"Infiltrating duct carcinoma, NOS",61.5,21.29226557152635,Dark,6,0,2
+4958c36f-1dc7-4f14-9dec-36e14107dbe3,Alive,female,white,80,29280.0,410.0,"Infiltrating duct carcinoma, NOS",80.2,1.1225188227241616,Light,2,1,4
+0930e97a-72ea-4bd5-b2f0-50c76af695f3,Alive,female,white,44,16109.0,2019.0,"Lobular carcinoma, NOS",44.1,5.5277207392197125,Light,2,1,4
+cc510968-fe52-4109-a79f-74f216b48c78,Alive,female,white,76,27967.0,664.0,Infiltrating duct mixed with other types of carcinoma,76.6,1.8179329226557153,Light,1,1,4
+09c2bc35-c21f-4aa4-ac30-0d8db02ad811,Alive,female,not reported,83,30528.0,761.0,"Infiltrating duct carcinoma, NOS",83.6,2.083504449007529,Unknown,3,3,3
+09d6e904-7184-4788-8a19-04f8c46cb13f,Alive,female,white,53,19570.0,287.0,"Lobular carcinoma, NOS",53.6,0.785763175906913,Light,3,1,4
+cd0c96a4-6414-4efb-879b-7408b62ed5b6,Alive,female,white,74,27287.0,714.0,"Lobular carcinoma, NOS",74.7,1.9548254620123204,Light,3,1,4
+2a84997d-ccee-4f46-bea2-752534f26416,Alive,female,black or african american,73,28331.0,,"Infiltrating duct carcinoma, NOS",77.6,,Dark,6,0,2
+cd781589-3820-45a2-906b-8d60cd02f3ef,Alive,female,white,70,25677.0,405.0,Infiltrating duct mixed with other types of carcinoma,70.3,1.108829568788501,Light,2,1,4
+2c6adb12-380d-4710-a7e6-93d5a0e53289,Alive,female,white,63,23021.0,769.0,"Lobular carcinoma, NOS",63.0,2.105407255304586,Light,2,1,4
+2c86c3ea-d926-4d39-a5ae-39ece4774287,Alive,female,black or african american,42,15625.0,7106.0,"Infiltrating duct carcinoma, NOS",42.8,19.45516769336071,Dark,6,0,2
+2c90d5e3-ac8c-4c86-a06f-42ccc064eb49,Alive,female,white,81,29916.0,466.0,"Infiltrating duct carcinoma, NOS",81.9,1.2758384668035592,Light,3,1,4
+2cb8c866-9296-4c70-a3ea-f9a9b707895c,Alive,female,not reported,73,26693.0,396.0,"Lobular carcinoma, NOS",73.1,1.0841889117043122,Unknown,5,3,3
+2cbeadff-a8a3-4787-9d4e-f6b74c3ab5d9,Alive,female,white,51,18721.0,2142.0,"Lobular carcinoma, NOS",51.3,5.864476386036961,Light,3,1,4
+cea9d8f9-e18c-4947-a461-5f712e3c1e6d,Alive,female,white,37,13817.0,1148.0,"Infiltrating duct carcinoma, NOS",37.8,3.143052703627652,Light,2,1,4
+ced2c048-b047-43ff-b0e7-cd7ad480850c,Alive,female,white,65,24083.0,472.0,"Infiltrating duct carcinoma, NOS",65.9,1.2922655715263518,Light,1,1,4
+cf0a3f38-5850-44e1-8574-808bd37d84a3,Alive,female,white,38,14115.0,1248.0,"Infiltrating duct carcinoma, NOS",38.6,3.4168377823408624,Light,1,1,4
+cf9db1af-17f0-490e-8139-142bd704763a,Alive,female,not reported,51,18870.0,304.0,"Infiltrating duct carcinoma, NOS",51.7,0.8323066392881588,Unknown,5,3,3
+e0375a8b-a135-4103-a59d-39063fcf4a6f,Alive,female,white,78,28644.0,620.0,"Infiltrating duct carcinoma, NOS",78.4,1.6974674880219027,Light,2,1,4
+1ff85ada-3cdd-4afb-b311-2c7befb52702,Alive,female,white,48,17637.0,1611.0,"Infiltrating duct carcinoma, NOS",48.3,4.4106776180698155,Light,1,1,4
+e0b1bcd2-1139-44b9-98b3-67bcf92bcc39,Alive,female,white,44,16370.0,867.0,"Infiltrating duct carcinoma, NOS",44.8,2.3737166324435317,Light,1,1,4
+20e8106b-1290-4735-abe4-7621e08e3dc8,Alive,female,white,38,14175.0,134.0,"Infiltrating duct carcinoma, NOS",38.8,0.3668720054757016,Light,2,1,4
+214a4507-d974-4b3e-8525-7408fccc6a0f,Alive,female,white,42,15593.0,2559.0,"Infiltrating duct carcinoma, NOS",42.7,7.006160164271047,Light,1,1,4
+8e159b50-8136-42d4-b9c7-d579a74e4931,Alive,female,white,47,17257.0,878.0,"Lobular carcinoma, NOS",47.2,2.403832991101985,Light,1,1,4
+22eaba28-be67-4730-9846-860bc1fca29a,Alive,female,not reported,54,19814.0,518.0,"Lobular carcinoma, NOS",54.2,1.4182067077344285,Unknown,4,3,3
+9087585f-e792-4f33-baaa-56ffe0f745be,Alive,female,black or african american,29,10869.0,302.0,"Infiltrating duct carcinoma, NOS",29.8,0.8268309377138946,Dark,6,0,2
+910655da-2c12-4572-96b7-ded616e69b4b,Alive,female,white,44,16213.0,681.0,"Lobular carcinoma, NOS",44.4,1.864476386036961,Light,2,1,4
+91a2f2af-e4b1-4a0b-ab20-6a36ce63c533,Alive,female,white,46,16887.0,1604.0,"Infiltrating duct carcinoma, NOS",46.2,4.39151266255989,Light,1,1,4
+23dabeef-8e3c-44bc-9a12-a9522d17be5c,Alive,female,not reported,66,24230.0,1642.0,"Infiltrating duct carcinoma, NOS",66.3,4.4955509924709105,Unknown,5,3,3
+92654f8d-5137-4ffd-aaa3-5ae38eb88226,Alive,female,black or african american,53,19563.0,679.0,"Infiltrating duct carcinoma, NOS",53.6,1.8590006844626967,Dark,5,0,2
+a2efe7e1-aca3-440f-825f-ed621edca69f,Alive,female,white,40,14906.0,454.0,"Lobular carcinoma, NOS",40.8,1.242984257357974,Light,2,1,4
+92b842c5-f71b-4ef7-ba86-358d28e0966f,Alive,female,black or african american,77,28375.0,80.0,"Infiltrating duct carcinoma, NOS",77.7,0.2190280629705681,Dark,6,0,2
+a45833e1-7cc9-4273-b408-620f74679a12,Alive,female,black or african american,39,14272.0,528.0,"Infiltrating duct carcinoma, NOS",39.1,1.4455852156057496,Dark,6,0,2
+a45d296e-efc0-479e-b2f6-bad834668cdf,Alive,female,white,74,27143.0,707.0,"Lobular carcinoma, NOS",74.3,1.9356605065023955,Light,3,1,4
+1cc30842-4a5b-4f07-b36f-5b84ceaa5662,Alive,female,white,58,21343.0,574.0,"Lobular carcinoma, NOS",58.4,1.571526351813826,Light,2,1,4
+9495f029-9882-4c9b-a557-b3aec9e91698,Alive,female,white,80,29406.0,2856.0,"Infiltrating duct carcinoma, NOS",80.5,7.819301848049282,Light,2,1,4
+1d38d356-d126-4476-94d0-26616b9375b1,Alive,female,black or african american,43,15820.0,1062.0,"Infiltrating duct carcinoma, NOS",43.3,2.9075975359342916,Dark,5,0,2
+1f8f87cb-8a0b-474c-97fb-c71b4fd88d97,Alive,female,white,78,28660.0,541.0,"Infiltrating duct carcinoma, NOS",78.5,1.4811772758384667,Light,2,1,4
+4fba3deb-db94-44b5-a0f2-a575d270779e,Alive,female,white,62,22686.0,1174.0,"Infiltrating duct carcinoma, NOS",62.1,3.2142368240930868,Light,1,1,4
+95e949d3-b1f3-46c6-9451-8fe92c99e4cf,Alive,female,white,63,23358.0,10.0,"Infiltrating duct carcinoma, NOS",64.0,0.02737850787132101,Light,1,1,4
+518f231c-f5f9-4a39-a97b-7fd5666d3e50,Alive,female,white,47,17465.0,1919.0,"Infiltrating duct carcinoma, NOS",47.8,5.253935660506502,Light,3,1,4
+521e2140-ae5b-456f-8699-97398d009687,Alive,female,white,43,15989.0,907.0,"Medullary carcinoma, NOS",43.8,2.4832306639288158,Light,2,1,4
+523e24a2-51b9-4658-be2f-42e5fccebb17,Alive,female,black or african american,47,17529.0,326.0,"Infiltrating duct carcinoma, NOS",48.0,0.892539356605065,Dark,6,0,2
+96b9c7db-1be1-4b60-b47c-26b654c3d64c,Alive,female,white,54,19781.0,2064.0,"Infiltrating duct carcinoma, NOS",54.2,5.650924024640657,Light,2,1,4
+96f02be7-f2df-483c-8968-a5bd2d887206,Alive,female,white,88,32208.0,492.0,"Lobular carcinoma, NOS",88.2,1.3470225872689938,Light,3,1,4
+12d31787-e54d-4729-ace8-9141043c92b8,Alive,female,white,62,22922.0,3017.0,"Infiltrating duct carcinoma, NOS",62.8,8.260095824777549,Light,2,1,4
+1347c23d-8d6e-4c15-9461-640249838c96,Alive,female,black or african american,50,18520.0,489.0,"Infiltrating duct carcinoma, NOS",50.7,1.3388090349075976,Dark,6,0,2
+97943d87-fed7-4f14-a0a7-c5bfee64c392,Alive,female,white,55,20092.0,441.0,"Infiltrating duct carcinoma, NOS",55.0,1.2073921971252566,Light,2,1,4
+13ca97a1-75bb-4a49-b8c3-181e5b2c9e86,Alive,female,black or african american,53,19679.0,3316.0,"Infiltrating duct carcinoma, NOS",53.9,9.078713210130047,Dark,5,0,2
+33919e92-4ea9-47e5-a6f4-36e51845d50f,Alive,female,not reported,57,21002.0,31.0,"Infiltrating duct carcinoma, NOS",57.5,0.08487337440109514,Unknown,5,3,3
+33cea538-4c3f-470a-972d-257c43241ab4,Alive,female,asian,64,23667.0,393.0,"Infiltrating duct carcinoma, NOS",64.8,1.0759753593429158,Medium,3,2,1
+34a74805-300c-4773-ab59-2085fcc2e6cc,Alive,female,white,66,24417.0,727.0,"Infiltrating duct carcinoma, NOS",66.9,1.9904175222450375,Light,1,1,4
+161917b8-88ad-407b-ade6-d6b98478b359,Alive,female,white,42,15504.0,1232.0,"Infiltrating duct carcinoma, NOS",42.4,3.373032169746749,Light,2,1,4
+16368c32-2118-4fcf-8693-6c89995e49d8,Alive,female,white,52,19250.0,635.0,"Infiltrating duct carcinoma, NOS",52.7,1.7385352498288844,Light,1,1,4
+174850b4-5ec2-462b-a890-89bd1716b3c2,Alive,female,black or african american,57,21024.0,1546.0,"Infiltrating duct carcinoma, NOS",57.6,4.232717316906228,Dark,6,0,2
+36220587-1c1c-4f92-b177-3b2155e7e273,Alive,female,white,39,14564.0,2868.0,"Infiltrating duct carcinoma, NOS",39.9,7.852156057494867,Light,3,1,4
+36d77496-99f8-4911-ba7c-89fae32662aa,Alive,female,white,39,14503.0,531.0,"Infiltrating duct carcinoma, NOS",39.7,1.4537987679671458,Light,2,1,4
+36fe6152-f61e-4948-9ccc-23ac01a9d77d,Alive,female,black or african american,53,19516.0,2335.0,"Infiltrating duct carcinoma, NOS",53.4,6.392881587953457,Dark,5,0,2
+378778d2-b331-4867-a93b-c64028c8b4c7,Alive,female,white,71,25959.0,2289.0,"Infiltrating duct carcinoma, NOS",71.1,6.26694045174538,Light,3,1,4
+3886b4fb-ba22-4a50-b11a-a6893951f170,Alive,female,white,69,25345.0,499.0,"Infiltrating duct carcinoma, NOS",69.4,1.3661875427789185,Light,2,1,4
+38a4e9bd-93e9-432d-a756-3b1055b823bd,Alive,female,white,79,28981.0,402.0,Infiltrating lobular mixed with other types of carcinoma,79.3,1.1006160164271048,Light,3,1,4
+38a8b734-9acc-42f9-b5b7-e51b0dfc6504,Alive,female,not reported,48,17807.0,942.0,"Infiltrating duct carcinoma, NOS",48.8,2.5790554414784395,Unknown,5,3,3
+38dc3e09-0b0e-4a29-b318-cc0352013dae,Alive,female,white,44,16101.0,646.0,"Lobular carcinoma, NOS",44.1,1.7686516084873374,Light,3,1,4
+3927f736-3b5c-48c8-9d9e-83669ec44770,Alive,female,not reported,79,29006.0,0.0,"Infiltrating duct carcinoma, NOS",79.4,0.0,Unknown,3,3,3
+398fb71b-ca83-44e7-bf0d-b1ca464b0283,Alive,female,black or african american,43,15780.0,858.0,"Infiltrating duct carcinoma, NOS",43.2,2.349075975359343,Dark,5,0,2
+39cde586-df95-435f-b9a6-73b0c0ee5e92,Alive,female,white,67,24519.0,651.0,Infiltrating duct mixed with other types of carcinoma,67.1,1.782340862422998,Light,3,1,4
+3aaabc62-f5a4-4025-9b29-5adf82c86c84,Alive,female,white,77,28247.0,2953.0,"Infiltrating duct carcinoma, NOS",77.3,8.084873374401095,Light,2,1,4
+5fc7ff35-d3f7-4687-8759-3542bd58e988,Alive,female,white,43,15837.0,911.0,Infiltrating duct mixed with other types of carcinoma,43.4,2.4941820670773445,Light,1,1,4
+5fd9552a-c742-4388-940d-295d1107ae00,Alive,female,white,65,23927.0,1026.0,"Infiltrating duct carcinoma, NOS",65.5,2.809034907597536,Light,2,1,4
+5fe3c51f-65e2-4da6-8924-a6fae17c022d,Alive,female,white,67,24719.0,34.0,"Infiltrating duct carcinoma, NOS",67.7,0.09308692676249145,Light,3,1,4
+5ff12cbe-a3e0-4ce6-8452-12b984a1baaf,Alive,female,asian,38,14122.0,258.0,"Infiltrating duct carcinoma, NOS",38.7,0.7063655030800822,Medium,4,2,1
+6014a582-d22e-46e1-9000-c8e2fbad7acf,Alive,female,white,50,18270.0,2605.0,"Infiltrating duct carcinoma, NOS",50.0,7.132101300479124,Light,2,1,4
+6020d1b4-ee20-4cc9-82a3-340b5e3122f1,Alive,female,white,49,18025.0,499.0,"Infiltrating duct carcinoma, NOS",49.3,1.3661875427789185,Light,1,1,4
+606fbc6a-b41b-441d-9401-51e54912bf5e,Alive,female,white,52,19192.0,477.0,"Infiltrating duct carcinoma, NOS",52.5,1.3059548254620124,Light,2,1,4
+60df7543-6da5-4c75-943b-5800c1e08234,Alive,female,black or african american,55,20105.0,972.0,"Infiltrating duct carcinoma, NOS",55.0,2.6611909650924024,Dark,6,0,2
+623befd6-0ca4-4a6c-9cf5-d9385c3b718f,Alive,female,white,47,17332.0,2618.0,"Infiltrating duct carcinoma, NOS",47.5,7.167693360711842,Light,1,1,4
+626b4ff0-2188-4a14-aac8-6703c624917f,Alive,female,not reported,75,27455.0,1006.0,"Infiltrating duct carcinoma, NOS",75.2,2.754277891854894,Unknown,4,3,3
+62d70067-ff77-4f95-8b69-f537abaf74ce,Alive,female,white,77,28444.0,431.0,"Infiltrating duct carcinoma, NOS",77.9,1.1800136892539357,Light,3,1,4
+6397d7bc-9cb1-4a84-81ad-76954e0a8cee,Alive,female,white,67,24788.0,2191.0,"Lobular carcinoma, NOS",67.9,5.9986310746064335,Light,2,1,4
+6412854a-f874-469e-9d1f-8bd3ae5bd41d,Alive,female,not reported,52,19298.0,30.0,"Infiltrating duct carcinoma, NOS",52.8,0.08213552361396304,Unknown,4,3,3
+6429c443-8ac3-407f-bb9c-66420b904bbf,Alive,female,black or african american,48,17689.0,1062.0,"Infiltrating duct carcinoma, NOS",48.4,2.9075975359342916,Dark,6,0,2
+6439621e-da61-4723-91cc-c5d87d0a4abc,Alive,female,not reported,66,24279.0,2288.0,"Infiltrating duct carcinoma, NOS",66.5,6.264202600958248,Unknown,4,3,3
+3ecb0147-276d-486c-9af0-ce437c24ba83,Alive,female,white,59,21622.0,2330.0,"Infiltrating duct carcinoma, NOS",59.2,6.379192334017796,Light,1,1,4
+3efa245d-177d-4ef9-94f7-f554c54e345e,Alive,female,not reported,84,30742.0,365.0,"Lobular carcinoma, NOS",84.2,0.999315537303217,Unknown,5,3,3
+408cb583-6dc3-4698-8bd2-e284042bd5ef,Alive,female,white,63,23224.0,1417.0,"Infiltrating duct carcinoma, NOS",63.6,3.8795345653661877,Light,3,1,4
+418c11e8-2670-48d5-bbf5-95b46bff1201,Alive,female,black or african american,59,21762.0,666.0,"Infiltrating duct carcinoma, NOS",59.6,1.8234086242299794,Dark,6,0,2
+4229e432-6ac5-49d2-b58a-e8713ddb79bd,Alive,female,white,59,21865.0,1233.0,"Lobular carcinoma, NOS",59.9,3.375770020533881,Light,3,1,4
+42621dfa-abfd-4c7d-8bc5-a02a09d1c2b4,Alive,female,asian,45,16508.0,382.0,"Infiltrating duct carcinoma, NOS",45.2,1.0458590006844628,Medium,4,2,1
+b8b6cebc-26dc-43ae-a94a-20da6018f7ae,Alive,female,white,65,23922.0,0.0,Infiltrating duct mixed with other types of carcinoma,65.5,0.0,Light,2,1,4
+b956df1b-bc77-4bdb-a5bd-5dda7b4c8da7,Alive,female,white,71,26278.0,1167.0,Infiltrating duct and lobular carcinoma,71.9,3.1950718685831623,Light,3,1,4
+b95eef8a-205f-4cf8-9d3c-ae51d406e1e0,Alive,female,white,58,21294.0,1285.0,"Infiltrating duct carcinoma, NOS",58.3,3.5181382614647503,Light,2,1,4
+97b5f490-1cd9-4833-b903-5f4c6e45670d,Alive,female,asian,46,17045.0,385.0,"Infiltrating duct carcinoma, NOS",46.7,1.054072553045859,Medium,4,2,1
+9848307d-1bd5-40c1-b655-a33297aaf74f,Alive,female,white,47,17817.0,,Not Reported,48.8,,Light,3,1,4
+9857be0c-aeca-4a43-90b1-0535bd08e086,Alive,female,white,62,22905.0,5176.0,"Lobular carcinoma, NOS",62.7,14.171115674195756,Light,3,1,4
+98e0b4de-52fc-4945-9bf5-11e29368f939,Alive,female,white,49,18109.0,3021.0,"Infiltrating duct carcinoma, NOS",49.6,8.271047227926077,Light,2,1,4
+98e709e7-e195-4b37-9537-f6081affb609,Alive,female,black or african american,48,17539.0,285.0,"Infiltrating duct carcinoma, NOS",48.0,0.7802874743326489,Dark,5,0,2
+993103b1-e5a1-4c33-8629-be53ebc41d64,Alive,female,not reported,75,27729.0,0.0,"Infiltrating duct carcinoma, NOS",75.9,0.0,Unknown,3,3,3
+9938ce5c-e74e-446e-a932-f096f85cc3b1,Alive,female,white,45,16615.0,819.0,"Infiltrating duct carcinoma, NOS",45.5,2.242299794661191,Light,2,1,4
+994ca1f5-ad10-44ec-aa21-71fc2940653b,Alive,female,white,58,21228.0,1101.0,Infiltrating duct and lobular carcinoma,58.1,3.0143737166324436,Light,1,1,4
+995fdab7-7284-4d33-befa-ec22aa7c6479,Alive,female,not reported,57,20940.0,30.0,"Lobular carcinoma, NOS",57.3,0.08213552361396304,Unknown,4,3,3
+b7f74ae1-6f58-447c-be50-a7666eb19d9a,Alive,female,white,51,18900.0,2513.0,"Infiltrating duct carcinoma, NOS",51.7,6.880219028062971,Light,2,1,4
+b8a44fdf-9cb9-4123-9ab0-4bc198921fee,Alive,female,black or african american,63,23108.0,1219.0,"Infiltrating duct carcinoma, NOS",63.3,3.3374401095140316,Dark,5,0,2
+b8a615f9-d19b-4b09-8ec8-0674e5c648cd,Alive,female,asian,58,21428.0,358.0,"Infiltrating duct carcinoma, NOS",58.7,0.9801505817932923,Medium,4,2,1
+b8aefc48-4a6e-4254-a57f-5f688399b582,Alive,female,black or african american,50,18354.0,440.0,"Infiltrating duct carcinoma, NOS",50.3,1.2046543463381245,Dark,5,0,2
+7fe4670d-4626-459d-869b-ab15f478c6a7,Alive,female,not reported,89,32750.0,30.0,"Infiltrating duct carcinoma, NOS",89.7,0.08213552361396304,Unknown,3,3,3
+80419545-4e5d-4baf-8948-f84589b5ef3e,Alive,female,white,68,25097.0,659.0,"Lobular carcinoma, NOS",68.7,1.8042436687200547,Light,3,1,4
+805bfe39-3695-43c2-93e4-d66d0559b89f,Alive,female,white,63,23055.0,683.0,"Infiltrating duct carcinoma, NOS",63.1,1.8699520876112252,Light,2,1,4
+807b62ed-d3f7-4211-83be-754386ff2c96,Alive,female,white,49,18046.0,1158.0,"Lobular carcinoma, NOS",49.4,3.1704312114989732,Light,1,1,4
+8183f0fb-2303-4d7b-bccd-55e5031fc7df,Alive,female,black or african american,73,26896.0,413.0,"Infiltrating duct carcinoma, NOS",73.6,1.1307323750855578,Dark,6,0,2
+81b70c58-4a12-448c-a594-2ade44f6a0ae,Alive,female,white,75,27421.0,456.0,"Lobular carcinoma, NOS",75.1,1.2484599589322383,Light,3,1,4
+81e32f39-3aa0-468b-87ed-dd2eb6165ddf,Alive,female,white,55,21201.0,,Infiltrating duct mixed with other types of carcinoma,58.0,,Light,1,1,4
+81e7a3d3-be70-4834-8018-4d2cc077a4e6,Alive,female,not reported,83,30590.0,0.0,"Lobular carcinoma, NOS",83.8,0.0,Unknown,4,3,3
+f801aeed-dc43-49d7-a319-84c8851979d9,Alive,female,white,67,24577.0,1141.0,"Infiltrating duct carcinoma, NOS",67.3,3.1238877481177276,Light,1,1,4
+f81ac8a2-4ce6-439e-b027-1c0bfc88ceaa,Alive,female,black or african american,75,27489.0,428.0,"Infiltrating duct carcinoma, NOS",75.3,1.1718001368925393,Dark,5,0,2
+f83b866b-0b2e-4bba-9367-be6dccf56232,Alive,female,not reported,77,28411.0,1051.0,"Lobular carcinoma, NOS",77.8,2.8774811772758384,Unknown,4,3,3
+f89588e9-ca73-4465-a7fb-7246edb45e3a,Alive,female,white,46,17022.0,467.0,"Lobular carcinoma, NOS",46.6,1.2785763175906912,Light,2,1,4
+f954de05-1b44-4087-8933-6cc72d81028d,Alive,female,white,45,16736.0,1120.0,Infiltrating duct and lobular carcinoma,45.8,3.0663928815879533,Light,2,1,4
+f9eb88f7-9293-46bf-ace4-a746e4ff80dc,Alive,female,not reported,59,21731.0,396.0,"Infiltrating duct carcinoma, NOS",59.5,1.0841889117043122,Unknown,5,3,3
+fb356957-f620-4d99-b675-1355a1d9f932,Alive,female,white,76,27837.0,1359.0,"Infiltrating duct carcinoma, NOS",76.2,3.7207392197125255,Light,3,1,4
+fb3607eb-858e-4ecd-8477-95140658c6d2,Alive,female,white,45,16689.0,217.0,"Infiltrating duct carcinoma, NOS",45.7,0.5941136208076659,Light,2,1,4
+fb57c598-b45b-478a-9d34-ca1f050d5b7c,Alive,female,white,71,25944.0,78.0,"Infiltrating duct carcinoma, NOS",71.0,0.2135523613963039,Light,2,1,4
+fbee40f1-d6d8-4156-8d42-36e09bb9f095,Alive,female,black or african american,64,23650.0,572.0,"Infiltrating duct carcinoma, NOS",64.8,1.566050650239562,Dark,6,0,2
+fc18d029-9be2-4fa0-9aef-6d647dc55f0b,Alive,female,white,45,16736.0,584.0,"Infiltrating duct carcinoma, NOS",45.8,1.5989048596851472,Light,1,1,4
+fcef8cb5-fb2c-4bfb-82cd-6b9f3145182c,Alive,female,white,65,23883.0,414.0,"Lobular carcinoma, NOS",65.4,1.1334702258726899,Light,2,1,4
+fd0b1b8b-1a76-480a-b61c-d176e4e02c6b,Alive,female,white,51,18852.0,2164.0,"Lobular carcinoma, NOS",51.6,5.924709103353867,Light,1,1,4
+fe15c48b-116d-461e-9b40-68514730fd18,Alive,female,white,60,22133.0,2813.0,"Infiltrating duct carcinoma, NOS",60.6,7.701574264202601,Light,1,1,4
+fe2cd610-aa52-4789-ac62-7683281bb22f,Alive,female,black or african american,35,12840.0,5.0,"Infiltrating duct carcinoma, NOS",35.2,0.013689253935660506,Dark,6,0,2
+fe7f74b8-20f4-4471-91dc-4cca8c68e5c0,Alive,female,black or african american,46,16978.0,1532.0,"Infiltrating duct carcinoma, NOS",46.5,4.1943874058863795,Dark,6,0,2
+fec0da58-1047-44d2-b6d1-c18cceed43dc,Alive,female,white,71,25957.0,375.0,"Lobular carcinoma, NOS",71.1,1.0266940451745379,Light,2,1,4
+ff0f875f-113a-4c0f-8c0a-4259cd496e6d,Alive,female,asian,58,21391.0,381.0,"Infiltrating duct carcinoma, NOS",58.6,1.0431211498973305,Medium,4,2,1
+bef7b135-a727-45e8-850a-cc4cd56c49aa,Alive,female,white,54,19758.0,1887.0,"Lobular carcinoma, NOS",54.1,5.166324435318275,Light,1,1,4
+bfd49783-1767-469b-9d79-7822301c5efc,Alive,female,white,50,18594.0,1001.0,"Infiltrating duct carcinoma, NOS",50.9,2.7405886379192332,Light,1,1,4
+bfd55808-dddd-44c3-97d7-41600497b992,Alive,female,white,44,17238.0,,"Infiltrating duct carcinoma, NOS",47.2,,Light,1,1,4
+c0427237-b476-4af4-b664-7bd479922ea5,Alive,female,white,79,29144.0,1043.0,"Infiltrating duct carcinoma, NOS",79.8,2.855578370978782,Light,2,1,4
+e783e518-c1e5-4eac-8eaf-e2d65ccd9692,Alive,female,black or african american,51,18659.0,525.0,"Infiltrating duct carcinoma, NOS",51.1,1.4373716632443532,Dark,6,0,2
+82ec33dd-e783-4c74-9a87-797a699e11df,Alive,female,white,49,18177.0,989.0,"Infiltrating duct carcinoma, NOS",49.8,2.707734428473648,Light,2,1,4
+8332806e-f547-4aae-89af-6d5bec831fd2,Alive,female,white,48,17710.0,76.0,"Infiltrating duct carcinoma, NOS",48.5,0.2080766598220397,Light,1,1,4
+83f26720-007c-42c9-a7de-7484bf8afa89,Alive,female,asian,50,18506.0,385.0,"Infiltrating duct carcinoma, NOS",50.7,1.054072553045859,Medium,4,2,1
+83f943c7-3975-4b4f-985d-9c057741793b,Alive,female,white,61,22539.0,754.0,"Infiltrating duct carcinoma, NOS",61.7,2.0643394934976045,Light,2,1,4
+843c8f16-5e59-40d4-9ecc-8a75375156f6,Alive,female,white,66,24353.0,820.0,"Metaplastic carcinoma, NOS",66.7,2.245037645448323,Light,2,1,4
+844ad251-3ee4-42f6-ad00-59a7a1670eea,Alive,female,white,60,22179.0,1545.0,"Infiltrating duct carcinoma, NOS",60.7,4.229979466119096,Light,2,1,4
+848773a3-2f4a-4186-ab3f-de667129accf,Alive,female,white,50,18384.0,439.0,"Infiltrating duct carcinoma, NOS",50.3,1.2019164955509924,Light,2,1,4
+84a88e8d-1e65-4b88-aae6-bf4c7a7e4c33,Alive,female,white,48,17727.0,554.0,"Infiltrating duct carcinoma, NOS",48.5,1.516769336071184,Light,1,1,4
+8539e15f-ba40-4219-aaeb-08d0ab101311,Alive,female,white,76,27811.0,3152.0,"Lobular carcinoma, NOS",76.1,8.629705681040383,Light,2,1,4
+8577ffcb-242e-40e2-98d4-2831d952be34,Alive,female,black or african american,72,26466.0,3456.0,"Papillary carcinoma, NOS",72.5,9.462012320328542,Dark,6,0,2
+2dc1cec9-925a-417f-9e21-3c2143e711b4,Alive,female,black or african american,80,29330.0,3364.0,"Lobular carcinoma, NOS",80.3,9.210130047912388,Dark,5,0,2
+2e1e3bf0-1708-4b65-936c-48b89eb8966a,Alive,female,white,62,22710.0,19.0,"Infiltrating duct carcinoma, NOS",62.2,0.05201916495550993,Light,1,1,4
+2e243f0e-9d7d-4cb0-9678-70607f90430a,Alive,female,white,61,22643.0,899.0,"Lobular carcinoma, NOS",62.0,2.461327857631759,Light,1,1,4
+316e021c-5175-4ab3-bdb6-2bf9683f657a,Alive,female,white,29,10812.0,7.0,"Infiltrating duct carcinoma, NOS",29.6,0.019164955509924708,Light,1,1,4
+31c31cce-1b4d-4f12-922f-84f389403170,Alive,female,not reported,69,25294.0,274.0,"Infiltrating duct carcinoma, NOS",69.3,0.7501711156741958,Unknown,5,3,3
+324bcba2-f6a4-45a6-807c-215bdffcca21,Alive,female,black or african american,60,22115.0,2048.0,"Infiltrating duct carcinoma, NOS",60.5,5.607118412046543,Dark,6,0,2
+327a2395-85c8-42e1-9638-8e037a1723ed,Alive,female,white,60,21949.0,974.0,"Infiltrating duct carcinoma, NOS",60.1,2.6666666666666665,Light,2,1,4
+328dfcb0-b5ae-43f2-bc87-dad0ab3df9e7,Alive,female,white,45,16702.0,4361.0,"Infiltrating duct carcinoma, NOS",45.7,11.939767282683095,Light,1,1,4
+32efa6e8-6b19-480a-9d04-ace02e93318a,Alive,female,white,67,24541.0,3283.0,"Infiltrating duct carcinoma, NOS",67.2,8.988364134154688,Light,2,1,4
+49717f75-0f2d-4e1c-9a12-f1cd7877b80a,Alive,female,white,58,21426.0,52.0,"Infiltrating duct carcinoma, NOS",58.7,0.14236824093086928,Light,2,1,4
+49a2fd48-744d-4d88-b9b4-8c778d4f48fd,Alive,female,black or african american,64,23675.0,,"Intraductal carcinoma, noninfiltrating, NOS",64.8,,Dark,5,0,2
+49dc3e68-6206-4f16-969f-a758cc7be8ed,Alive,female,white,51,18839.0,1132.0,Infiltrating duct and lobular carcinoma,51.6,3.0992470910335386,Light,2,1,4
+4a16429b-884f-4c95-8683-feeedf0d6a55,Alive,female,white,42,15524.0,1873.0,"Infiltrating duct carcinoma, NOS",42.5,5.127994524298426,Light,2,1,4
+4ac693e9-10f3-46b3-9d46-df3af7b0d259,Alive,female,white,48,17580.0,1935.0,"Infiltrating duct carcinoma, NOS",48.1,5.297741273100616,Light,2,1,4
+4b0d295c-e185-4b52-9752-178e5bc1d47d,Alive,female,not reported,64,23404.0,640.0,"Lobular carcinoma, NOS",64.1,1.7522245037645447,Unknown,4,3,3
+4b4e4ea8-6eb9-49ad-b880-c5065fe6517f,Alive,female,white,48,17699.0,1369.0,"Infiltrating duct carcinoma, NOS",48.5,3.7481177275838466,Light,1,1,4
+4b620966-b4c7-4615-bf58-ca9d3226b9bd,Alive,female,white,54,19731.0,1463.0,"Infiltrating duct carcinoma, NOS",54.0,4.005475701574264,Light,2,1,4
+4cfef7f9-f1ee-401c-a2a3-c225d4adc3b6,Alive,female,white,59,21837.0,575.0,"Infiltrating duct carcinoma, NOS",59.8,1.5742642026009583,Light,2,1,4
+89a8da07-4487-47c6-8d3c-442a87e4f632,Alive,female,white,42,15602.0,975.0,"Infiltrating duct carcinoma, NOS",42.7,2.6694045174537986,Light,3,1,4
+89c128b9-1c6b-4c04-a4af-7066772e783c,Alive,female,white,41,15216.0,2645.0,"Lobular carcinoma, NOS",41.7,7.241615331964408,Light,2,1,4
+89e867de-d30e-4bfc-a453-0a76309dabd5,Alive,female,asian,56,20471.0,383.0,"Infiltrating duct carcinoma, NOS",56.0,1.0485968514715949,Medium,3,2,1
+8ace3b8c-f23e-48a9-a137-9e046bd9549b,Alive,female,black or african american,49,18152.0,435.0,"Infiltrating duct carcinoma, NOS",49.7,1.1909650924024642,Dark,5,0,2
+8b525ec6-d24b-49d4-bfcb-b354de4dae7c,Alive,female,asian,74,27063.0,375.0,"Infiltrating duct carcinoma, NOS",74.1,1.0266940451745379,Medium,4,2,1
+8c09f413-e938-4f2e-a414-84f0e7fcfe41,Alive,female,black or african american,52,19131.0,441.0,"Infiltrating duct carcinoma, NOS",52.4,1.2073921971252566,Dark,5,0,2
+2e82e576-3095-4aee-9853-65f676647c34,Alive,female,white,57,20930.0,2091.0,"Infiltrating duct carcinoma, NOS",57.3,5.724845995893224,Light,2,1,4
+2e8e70f2-c781-44c2-8f12-1f8c2f536aa3,Alive,female,white,58,21479.0,10.0,"Infiltrating duct carcinoma, NOS",58.8,0.02737850787132101,Light,3,1,4
+2f4cbedf-ed7e-45a2-bf34-f1d1e696bdde,Alive,female,white,88,32462.0,213.0,"Infiltrating duct carcinoma, NOS",88.9,0.5831622176591376,Light,2,1,4
+2fd36838-5a83-433e-ac80-b1f77448e5aa,Alive,female,black or african american,52,19031.0,303.0,Infiltrating duct mixed with other types of carcinoma,52.1,0.8295687885010267,Dark,5,0,2
+2fdfd287-d13c-4910-9788-73987d45908a,Alive,female,white,73,26845.0,3094.0,"Infiltrating duct carcinoma, NOS",73.5,8.470910335386721,Light,2,1,4
+2fe854b4-bac9-4801-9a1c-ee99388e8082,Alive,female,white,43,15774.0,2515.0,"Infiltrating duct carcinoma, NOS",43.2,6.885694729637235,Light,2,1,4
+30047d32-0833-4aca-98d1-3b9ab7122863,Alive,female,white,54,19989.0,3035.0,"Infiltrating duct carcinoma, NOS",54.7,8.309377138945928,Light,2,1,4
+303a1d77-a37a-4966-a4a4-9981d99ba1b4,Alive,female,white,50,18507.0,1163.0,"Infiltrating duct carcinoma, NOS",50.7,3.184120465434634,Light,3,1,4
+31427699-e27a-4035-8925-6d8d6900d097,Alive,female,white,43,15969.0,1325.0,"Lobular carcinoma, NOS",43.7,3.6276522929500343,Light,2,1,4
+1b4cfad1-e353-4411-97b6-2b7b9309e95e,Alive,female,white,89,32872.0,0.0,"Lobular carcinoma, NOS",90.0,0.0,Light,3,1,4
+1be375fe-5ae5-4e75-a729-69f86a661d9a,Alive,female,white,53,19607.0,767.0,Tubular adenocarcinoma,53.7,2.099931553730322,Light,3,1,4
+1c3610f7-e0aa-48d7-9a27-0dbaf6e244f9,Alive,female,white,47,17474.0,2654.0,"Infiltrating duct carcinoma, NOS",47.8,7.266255989048597,Light,1,1,4
+4e509f73-99c7-48eb-a3a4-d34e3bface33,Alive,female,white,61,22411.0,1783.0,"Lobular carcinoma, NOS",61.4,4.8815879534565365,Light,1,1,4
+4f321d41-3255-46a4-ae0d-1cf39699e624,Alive,female,white,73,26883.0,849.0,"Lobular carcinoma, NOS",73.6,2.324435318275154,Light,1,1,4
+a8f5c479-8685-4e2d-bb60-63f1cc651083,Alive,female,white,70,26121.0,,"Lobular carcinoma, NOS",71.5,,Light,1,1,4
+241fffc8-4250-4cfa-b2e7-e68c33ae07dc,Alive,female,white,47,17523.0,3128.0,"Infiltrating duct carcinoma, NOS",48.0,8.563997262149213,Light,1,1,4
+24334ac1-28a3-4b61-b590-3f51e375b247,Alive,female,white,81,29751.0,178.0,"Infiltrating duct carcinoma, NOS",81.5,0.487337440109514,Light,2,1,4
+24e39609-9645-43e5-960b-db5446eaea65,Alive,female,white,68,24999.0,591.0,"Infiltrating duct carcinoma, NOS",68.4,1.6180698151950719,Light,1,1,4
+cab38ea8-4555-413c-b81e-4621aac4ef85,Alive,female,white,45,16719.0,1620.0,"Infiltrating duct carcinoma, NOS",45.8,4.435318275154004,Light,2,1,4
+cb0a2055-2168-4454-8755-47dd613db36f,Alive,female,not reported,82,30196.0,273.0,"Infiltrating duct carcinoma, NOS",82.7,0.7474332648870636,Unknown,5,3,3
+cc0902fd-a2fc-4327-929e-d4219e32e1d7,Alive,female,asian,39,14264.0,3307.0,"Infiltrating duct carcinoma, NOS",39.1,9.05407255304586,Medium,3,2,1
+cc348a26-ee11-47a4-8b51-de922967e175,Alive,female,not reported,51,18628.0,457.0,"Lobular carcinoma, NOS",51.0,1.2511978097193703,Unknown,5,3,3
+8624354c-af25-423c-9c71-48a5dd821097,Alive,female,white,62,22995.0,783.0,"Lobular carcinoma, NOS",63.0,2.1437371663244353,Light,1,1,4
+86b7b206-8e69-432d-acc9-bccce710955e,Alive,female,black or african american,36,13307.0,655.0,"Infiltrating duct carcinoma, NOS",36.4,1.7932922655715264,Dark,5,0,2
+86c6f993-327f-4525-9983-29c55625593a,Alive,female,white,42,15432.0,,"Adenocarcinoma, NOS",42.3,,Light,2,1,4
+86cf879e-3b40-44dd-aaa7-6f49f54a15d9,Alive,female,white,66,24439.0,754.0,"Papillary carcinoma, NOS",66.9,2.0643394934976045,Light,2,1,4
+87281a89-91d2-44f7-9f80-668567ad5c72,Alive,female,white,70,25830.0,875.0,"Infiltrating duct carcinoma, NOS",70.7,2.3956194387405887,Light,3,1,4
+8744733a-7b46-43aa-bdef-64876816adbb,Alive,female,white,62,22788.0,647.0,"Infiltrating duct carcinoma, NOS",62.4,1.7713894592744694,Light,2,1,4
+8785012f-f73e-4d68-87cf-1d804af32782,Alive,female,black or african american,46,17070.0,965.0,"Infiltrating duct carcinoma, NOS",46.7,2.642026009582478,Dark,6,0,2
+878f975b-94fd-4d69-b7e7-1ed3ac2ee438,Alive,female,white,63,23065.0,652.0,"Infiltrating duct carcinoma, NOS",63.1,1.78507871321013,Light,1,1,4
+e4fc0909-f284-4471-866d-d8967b6adcbc,Alive,female,white,79,28923.0,1246.0,"Infiltrating duct carcinoma, NOS",79.2,3.4113620807665983,Light,1,1,4
+e5aae05a-478e-4a55-a27c-12b2b4be302a,Alive,female,white,36,13445.0,90.0,"Infiltrating duct carcinoma, NOS",36.8,0.2464065708418891,Light,3,1,4
+e7a00d67-2c26-4d1f-bd17-35f659e88bc1,Alive,female,white,60,22052.0,795.0,"Infiltrating duct carcinoma, NOS",60.4,2.1765913757700206,Light,3,1,4
+e828455d-4680-41b2-8a1c-1582e3790d62,Alive,female,white,59,21857.0,170.0,"Infiltrating duct carcinoma, NOS",59.8,0.4654346338124572,Light,2,1,4
+e89a9deb-6321-4e61-b412-b4993d4277dd,Alive,female,not reported,58,21428.0,975.0,"Infiltrating duct carcinoma, NOS",58.7,2.6694045174537986,Unknown,4,3,3
+2585edbd-3488-4100-a4ab-a161252a31ee,Alive,female,white,62,22900.0,403.0,"Infiltrating duct carcinoma, NOS",62.7,1.103353867214237,Light,3,1,4
+3b01d064-8c00-4972-9f07-407eac8e7534,Alive,female,white,54,19900.0,829.0,"Infiltrating duct carcinoma, NOS",54.5,2.269678302532512,Light,2,1,4
+3b1f7e48-216d-47de-ba79-db350f52bff0,Alive,female,asian,48,17779.0,747.0,"Infiltrating duct carcinoma, NOS",48.7,2.0451745379876796,Medium,4,2,1
+3b963d72-ba5c-467b-83c9-fbdb462510a3,Alive,female,white,89,32872.0,0.0,"Lobular carcinoma, NOS",90.0,0.0,Light,3,1,4
+3bf81a9f-abb4-4495-a514-fd3865e13a03,Alive,female,white,64,23423.0,856.0,"Infiltrating duct carcinoma, NOS",64.1,2.3436002737850785,Light,2,1,4
+3c08aabd-d5b5-4bbe-857c-38a7527b2163,Alive,male,not reported,44,16377.0,1124.0,"Infiltrating duct carcinoma, NOS",44.8,3.077344284736482,Unknown,5,3,3
+3c275152-d04b-440c-9621-2fc05ea977b6,Alive,female,white,54,19805.0,1185.0,"Lobular carcinoma, NOS",54.2,3.24435318275154,Light,3,1,4
+3c612e12-6de8-44fa-a095-805c45474821,Alive,female,white,58,21369.0,728.0,"Infiltrating duct carcinoma, NOS",58.5,1.9931553730321698,Light,1,1,4
+3cb06c7a-f2a8-448b-91a8-dd201bbf2ddd,Alive,female,white,52,19027.0,3203.0,"Infiltrating duct carcinoma, NOS",52.1,8.76933607118412,Light,3,1,4
+3d676bba-154b-4d22-ab59-d4d4da051b94,Alive,female,white,28,10564.0,1088.0,Infiltrating duct and lobular carcinoma,28.9,2.9787816563997263,Light,2,1,4
+dfaabd03-2d40-4422-b210-caf112ff4229,Alive,female,black or african american,72,26535.0,34.0,"Infiltrating duct carcinoma, NOS",72.6,0.09308692676249145,Dark,6,0,2
+dfd0b7ba-c7d3-498e-b455-346301865452,Alive,female,white,62,22751.0,585.0,"Infiltrating duct carcinoma, NOS",62.3,1.6016427104722792,Light,2,1,4
+abdc76db-f85e-4337-a57e-6d098789da03,Alive,female,asian,55,20332.0,358.0,"Infiltrating duct carcinoma, NOS",55.7,0.9801505817932923,Medium,4,2,1
+ac075bc0-1b59-4557-beea-541694faee03,Alive,female,white,48,17652.0,1039.0,"Infiltrating duct carcinoma, NOS",48.3,2.844626967830253,Light,2,1,4
+ac18b3a3-8d52-4e35-8625-673171a7fd92,Alive,female,white,67,24779.0,162.0,"Infiltrating duct carcinoma, NOS",67.8,0.44353182751540043,Light,1,1,4
+ac68d219-5670-4ddd-8df6-8aa7ad59e5c7,Alive,female,white,56,20764.0,789.0,"Infiltrating duct carcinoma, NOS",56.8,2.1601642710472277,Light,3,1,4
+ac6d3ba9-f84f-4657-aa85-4d66fb7c09da,Alive,female,white,61,22344.0,1847.0,"Infiltrating duct carcinoma, NOS",61.2,5.0568104038329915,Light,1,1,4
+ad0fa961-c085-4f38-b3db-5fc0cbf6b64f,Alive,female,white,46,17080.0,1198.0,"Lobular carcinoma, NOS",46.8,3.2799452429842573,Light,2,1,4
+ad6d26ab-6568-40db-bfb0-394d40e801cf,Alive,female,white,62,22958.0,381.0,"Lobular carcinoma, NOS",62.9,1.0431211498973305,Light,3,1,4
+ae65baeb-6b78-492a-8c63-bb7e93e83dc2,Alive,female,white,59,21910.0,410.0,"Infiltrating duct carcinoma, NOS",60.0,1.1225188227241616,Light,3,1,4
+ae8c77fe-e6c8-44d5-8265-4a38c637bbef,Alive,female,black or african american,67,24660.0,1535.0,"Infiltrating duct carcinoma, NOS",67.5,4.202600958247776,Dark,6,0,2
+aeb6a3a6-b57a-4c53-90e6-e833777dd2a1,Alive,female,white,82,30125.0,747.0,"Infiltrating duct carcinoma, NOS",82.5,2.0451745379876796,Light,2,1,4
+af0acaa9-a61c-4e57-bc0d-453ad5bf193a,Alive,female,black or african american,71,26186.0,1301.0,"Infiltrating duct carcinoma, NOS",71.7,3.561943874058864,Dark,5,0,2
+af2a8e2f-2ae1-48bc-bba5-0e2c077c4e48,Alive,female,white,51,18733.0,447.0,"Infiltrating duct carcinoma, NOS",51.3,1.2238193018480492,Light,1,1,4
+af5453a9-cf1f-40de-aec4-0e0710908fb7,Alive,female,not reported,83,30407.0,1157.0,Infiltrating duct and lobular carcinoma,83.2,3.167693360711841,Unknown,4,3,3
+af97e043-88cb-4f99-8f8b-9bcbcccdf842,Alive,female,black or african american,59,21628.0,1673.0,"Infiltrating duct carcinoma, NOS",59.2,4.5804243668720055,Dark,6,0,2
+b0700958-5f90-4546-b35f-635cd506889b,Alive,female,asian,64,23686.0,1953.0,"Lobular carcinoma, NOS",64.8,5.347022587268994,Medium,4,2,1
+b0bcb829-cee0-4247-bb75-093a5bea89ee,Alive,female,white,79,28855.0,1308.0,"Infiltrating duct carcinoma, NOS",79.0,3.5811088295687883,Light,3,1,4
+b0f8d698-a30e-4d8d-b0a2-a5a01fac8406,Alive,female,white,62,22849.0,624.0,"Lobular carcinoma, NOS",62.6,1.7084188911704312,Light,3,1,4
+b1d44c81-747d-471f-9093-aeb262a17975,Alive,female,white,46,16955.0,3256.0,Pleomorphic carcinoma,46.4,8.914442162902121,Light,1,1,4
+b205bba0-1870-4458-9088-8817e20389fe,Alive,female,not reported,40,14883.0,304.0,"Infiltrating duct carcinoma, NOS",40.7,0.8323066392881588,Unknown,4,3,3
+b205c89f-af62-4186-acad-ed23d243fa98,Alive,female,white,48,17702.0,1474.0,"Lobular carcinoma, NOS",48.5,4.035592060232717,Light,1,1,4
+b2aac45b-2073-4c7a-adb9-769a4fdcc111,Alive,female,white,71,26221.0,576.0,"Infiltrating duct carcinoma, NOS",71.8,1.5770020533880904,Light,2,1,4
+b304302a-f2b9-4cd7-ab14-c21edf7778ea,Alive,female,white,60,22199.0,812.0,"Lobular carcinoma, NOS",60.8,2.223134839151266,Light,2,1,4
+b35fbe19-0e6d-427e-b9be-ee3527b5fca6,Alive,female,white,63,23318.0,288.0,"Lobular carcinoma, NOS",63.8,0.7885010266940452,Light,1,1,4
+b43e41af-1d82-4b5f-b8f1-add0510e6b86,Alive,female,not reported,69,25475.0,1308.0,"Infiltrating duct carcinoma, NOS",69.7,3.5811088295687883,Unknown,5,3,3
+b58ad350-5140-4fa8-bc2c-24bca8395f3a,Alive,female,white,62,22707.0,2246.0,"Infiltrating duct carcinoma, NOS",62.2,6.1492128678987,Light,2,1,4
+b63391a0-73f8-4544-9e94-f6529245ca2a,Alive,female,white,78,28495.0,118.0,"Lobular carcinoma, NOS",78.0,0.32306639288158795,Light,1,1,4
+b6633c36-7ce4-4b69-9bf6-30b64d46c66f,Alive,female,not reported,57,20820.0,1034.0,"Infiltrating duct carcinoma, NOS",57.0,2.830937713894593,Unknown,3,3,3
+f30eb65f-fb44-4062-ac39-a38d072f655f,Alive,female,white,68,24891.0,3088.0,"Infiltrating duct carcinoma, NOS",68.1,8.454483230663929,Light,2,1,4
+f31c21b6-0f7f-435b-9e24-97c909755c36,Alive,female,white,56,20719.0,1121.0,"Infiltrating duct carcinoma, NOS",56.7,3.0691307323750854,Light,1,1,4
+f357fe19-5359-4662-8ce9-aa996132283b,Alive,female,white,68,24923.0,1980.0,"Infiltrating duct carcinoma, NOS",68.2,5.420944558521561,Light,3,1,4
+f3a058b9-fb7f-4098-8f0e-83c2acfa1ed5,Alive,female,black or african american,36,13483.0,3709.0,"Infiltrating duct carcinoma, NOS",36.9,10.154688569472963,Dark,6,0,2
+f3b86c02-09a5-4e97-aa7a-86f13f7cda4b,Alive,female,white,56,20694.0,320.0,Invasive micropapillary carcinoma,56.7,0.8761122518822724,Light,1,1,4
+887b9e5b-99db-44ac-9c30-c0dc6877b41c,Alive,female,white,53,19478.0,1309.0,"Infiltrating duct carcinoma, NOS",53.3,3.583846680355921,Light,1,1,4
+88cd6ccc-70f7-436e-a99c-039b9d31e335,Alive,female,white,74,27163.0,10.0,"Infiltrating duct carcinoma, NOS",74.4,0.02737850787132101,Light,3,1,4
+88db1340-e4bf-451a-87c0-6e9168296f5e,Alive,female,black or african american,70,25770.0,608.0,"Infiltrating duct carcinoma, NOS",70.6,1.6646132785763177,Dark,5,0,2
+89128dba-403f-4a96-bb3b-23ed0d5e2147,Alive,female,white,63,23230.0,2329.0,"Infiltrating duct carcinoma, NOS",63.6,6.376454483230664,Light,2,1,4
+89414e79-7f89-42d9-8228-101b5bf2f31f,Alive,female,asian,47,17468.0,616.0,"Infiltrating duct carcinoma, NOS",47.8,1.6865160848733745,Medium,4,2,1
+a9b7d7fe-be31-4f71-afee-c1bfdf511888,Alive,female,black or african american,41,15052.0,1587.0,"Infiltrating duct carcinoma, NOS",41.2,4.344969199178645,Dark,6,0,2
+aa4244a8-0454-4247-a1c3-357fd51746fa,Alive,female,white,72,26484.0,611.0,"Infiltrating duct carcinoma, NOS",72.5,1.672826830937714,Light,3,1,4
+ab89bb2e-da84-4116-a8cd-49aad7bbfd4d,Alive,female,white,43,15812.0,4275.0,"Infiltrating duct carcinoma, NOS",43.3,11.704312114989733,Light,2,1,4
+aba5f46a-e67a-4cd2-9c52-c0686968ff04,Alive,male,black or african american,59,21623.0,510.0,"Infiltrating duct carcinoma, NOS",59.2,1.3963039014373717,Dark,5,0,2
+f45aa0b2-f3de-4db5-9730-e5c6c4e2ed3a,Alive,female,white,39,14316.0,788.0,Invasive micropapillary carcinoma,39.2,2.1574264202600957,Light,3,1,4
+f4b69043-4a67-48e3-a4d1-72a21ae2d175,Alive,female,not reported,74,27121.0,0.0,"Infiltrating duct carcinoma, NOS",74.3,0.0,Unknown,4,3,3
+4a032bad-e726-48f2-8f39-e3acc109cc91,Alive,female,white,59,21856.0,2255.0,"Infiltrating duct carcinoma, NOS",59.8,6.1738535249828885,Light,2,1,4
+f55dd73d-8c36-440b-84e5-9aae53107775,Alive,female,black or african american,58,21465.0,694.0,"Basal cell carcinoma, NOS",58.8,1.9000684462696784,Dark,6,0,2
+34d5a193-85e5-4399-8a9b-e92858eafdfe,Alive,female,not reported,66,24380.0,579.0,"Lobular carcinoma, NOS",66.7,1.5852156057494866,Unknown,3,3,3
+29df128d-ace2-40cf-88ee-3f6f2170f159,Alive,female,not reported,45,16742.0,1277.0,"Infiltrating duct carcinoma, NOS",45.8,3.4962354551676933,Unknown,4,3,3
+5d1d00c6-fcae-479e-ae1e-de76efd41d98,Alive,female,black or african american,71,25974.0,2371.0,"Infiltrating duct carcinoma, NOS",71.1,6.491444216290212,Dark,5,0,2
+f6ed684f-ee7a-496c-80d5-6eacd494d16a,Alive,female,white,63,23150.0,2989.0,"Infiltrating duct carcinoma, NOS",63.4,8.183436002737851,Light,2,1,4
+f7064d01-29d8-49a2-ad60-1e0c5f148f3e,Alive,female,white,65,23753.0,551.0,"Lobular carcinoma, NOS",65.0,1.5085557837097878,Light,1,1,4
+0807435a-e75e-4e04-8e45-ed0cd49a841a,Alive,female,white,51,18748.0,8391.0,Infiltrating duct mixed with other types of carcinoma,51.3,22.973305954825463,Light,1,1,4
+e9002f4e-ba0b-4738-9368-dd9614a5da8a,Alive,female,white,59,21608.0,792.0,"Lobular carcinoma, NOS",59.2,2.1683778234086244,Light,1,1,4
+baf1207d-7d1a-4cad-ba58-62c26be2415e,Alive,female,white,62,22805.0,231.0,"Infiltrating duct carcinoma, NOS",62.4,0.6324435318275154,Light,2,1,4
+e9f4f373-37a5-48ad-a1a0-b0d47820111a,Alive,female,white,61,22462.0,1140.0,"Infiltrating duct carcinoma, NOS",61.5,3.1211498973305956,Light,2,1,4
+3144f1fb-4342-4079-bfe8-940da4bfd88e,Alive,female,white,53,19643.0,1042.0,"Infiltrating duct carcinoma, NOS",53.8,2.8528405201916494,Light,2,1,4
+d5cab7f5-e4f1-40ee-a0c8-4c8004c1c9a0,Alive,female,white,32,11929.0,172.0,"Infiltrating duct carcinoma, NOS",32.7,0.47091033538672145,Light,3,1,4
+eadb0562-2165-4adb-ad58-018e73f82780,Alive,male,white,78,28664.0,974.0,"Infiltrating duct carcinoma, NOS",78.5,2.6666666666666665,Light,2,1,4
+f45210d3-9e66-4f5e-bef1-5ee5547cc893,Alive,female,black or african american,66,24434.0,187.0,"Infiltrating duct carcinoma, NOS",66.9,0.5119780971937029,Dark,5,0,2
+3b7b9c1e-a84c-47ed-983c-9e4b00cbf01a,Alive,female,white,55,20210.0,738.0,"Metaplastic carcinoma, NOS",55.3,2.020533880903491,Light,3,1,4
+ebc460c2-df88-4dc0-a2c0-aca8072b75ad,Alive,female,white,55,20152.0,10.0,"Infiltrating duct carcinoma, NOS",55.2,0.02737850787132101,Light,1,1,4
+7e1673f8-5758-4963-8804-d5e39f06205b,Alive,female,asian,55,20346.0,385.0,"Infiltrating duct carcinoma, NOS",55.7,1.054072553045859,Medium,4,2,1
+ec0155ab-1b14-498d-8fa9-9f63e3ccb990,Alive,female,white,80,29444.0,1026.0,"Lobular carcinoma, NOS",80.6,2.809034907597536,Light,1,1,4
+bf88ddf5-a6d4-498c-bf7f-db9bfabff72d,Alive,female,white,54,19880.0,2442.0,"Infiltrating duct carcinoma, NOS",54.4,6.685831622176591,Light,3,1,4
+ec461eaf-f5cb-4225-a9a0-59d8e6c17ea6,Alive,female,black or african american,29,10832.0,641.0,"Infiltrating duct carcinoma, NOS",29.7,1.754962354551677,Dark,5,0,2
+ec77a23d-84f5-47e4-bf2a-fa1c03baf3db,Alive,female,white,64,23660.0,658.0,"Infiltrating duct carcinoma, NOS",64.8,1.8015058179329226,Light,3,1,4
+ed6cef77-1bd9-4e3b-b576-550a91e4253a,Alive,female,white,38,14122.0,575.0,"Infiltrating duct carcinoma, NOS",38.7,1.5742642026009583,Light,2,1,4
+ee5744c0-a8dc-43f2-abdd-0b5529a3e9fb,Alive,female,white,64,23485.0,562.0,"Infiltrating duct carcinoma, NOS",64.3,1.538672142368241,Light,3,1,4
+6f6e7356-3521-4674-8eec-ad01340d4b8e,Alive,female,white,75,27521.0,409.0,"Lobular carcinoma, NOS",75.3,1.1197809719370295,Light,1,1,4
+ef1b3332-cd7f-41bb-a2d3-2538e7becc5c,Alive,female,black or african american,46,16884.0,447.0,"Infiltrating duct carcinoma, NOS",46.2,1.2238193018480492,Dark,6,0,2
+db55d9d9-dd56-4ca9-b1f1-0d929697b280,Alive,female,black or african american,63,23072.0,715.0,"Infiltrating duct carcinoma, NOS",63.2,1.9575633127994525,Dark,6,0,2
+602083f0-18d9-48b6-a529-31e165c54b37,Alive,female,white,56,20804.0,72.0,Intraductal papillary adenocarcinoma with invasion,57.0,0.1971252566735113,Light,2,1,4
+e8f3cc64-5e15-4f4d-b73e-5c9b250a664c,Alive,female,white,62,22809.0,2161.0,"Infiltrating duct carcinoma, NOS",62.4,5.916495550992471,Light,2,1,4
+c5f00132-1c6b-4337-af6f-596c652665cc,Alive,female,white,59,21755.0,4080.0,"Infiltrating duct carcinoma, NOS",59.6,11.170431211498974,Light,2,1,4
+f062cbd0-2426-40ac-a4be-e74ac61fa2a7,Alive,female,black or african american,84,30783.0,448.0,"Infiltrating duct carcinoma, NOS",84.3,1.2265571526351813,Dark,6,0,2
+c4699748-f01d-4b30-9c74-1ca77fb84ac1,Alive,female,white,36,13510.0,522.0,"Infiltrating duct carcinoma, NOS",37.0,1.429158110882957,Light,2,1,4
+f0d8a1fe-e313-44f1-99cc-b965cbeeff0e,Alive,female,asian,48,17763.0,439.0,"Infiltrating duct carcinoma, NOS",48.6,1.2019164955509924,Medium,4,2,1
+4b54e06e-a280-4981-a4e1-9aea154341b4,Alive,female,black or african american,73,26999.0,518.0,"Infiltrating duct carcinoma, NOS",73.9,1.4182067077344285,Dark,6,0,2
+5c8983f2-9788-4dfa-971c-3ec457b6166e,Alive,female,black or african american,37,13556.0,3015.0,"Infiltrating duct carcinoma, NOS",37.1,8.254620123203285,Dark,5,0,2
+e37ae674-a107-4eb3-94d8-b86b0035a9f7,Alive,female,white,87,32061.0,496.0,"Lobular carcinoma, NOS",87.8,1.3579739904175223,Light,1,1,4
+4bf50455-9ab7-4521-a791-089f66d3b877,Alive,female,white,39,14374.0,2721.0,"Infiltrating duct carcinoma, NOS",39.4,7.449691991786447,Light,3,1,4
+f2bbfa9d-9a9d-4f46-9fde-378e4c44e2ad,Alive,female,white,49,18237.0,423.0,"Infiltrating duct carcinoma, NOS",49.9,1.158110882956879,Light,3,1,4
+7acf33e7-c386-45fd-8c9a-469600378687,Alive,female,not reported,53,19389.0,365.0,"Infiltrating duct carcinoma, NOS",53.1,0.999315537303217,Unknown,4,3,3
+f2e28af9-c40e-41c4-9e82-205cca38f26a,Alive,female,white,68,25937.0,,"Infiltrating duct carcinoma, NOS",71.0,,Light,2,1,4
+f947d67f-4aa2-4eb9-977e-21a5ae563613,Alive,female,not reported,70,25598.0,943.0,"Infiltrating duct carcinoma, NOS",70.1,2.5817932922655715,Unknown,3,3,3
+a721dac6-0126-476c-b2d4-2dbf7406454b,Alive,female,white,76,27934.0,2248.0,"Lobular carcinoma, NOS",76.5,6.154688569472964,Light,1,1,4
+a76774fe-7298-4d68-a2b2-c1bad93f0c31,Alive,female,white,50,18475.0,3519.0,"Infiltrating duct carcinoma, NOS",50.6,9.634496919917865,Light,2,1,4
+dd0f8e5a-383d-4f03-bb71-0e115d4e442c,Alive,female,asian,70,25811.0,358.0,"Infiltrating duct carcinoma, NOS",70.7,0.9801505817932923,Medium,3,2,1
+a8015490-9740-45c9-8bd2-eb6d1beefc2e,Alive,female,white,56,20705.0,2128.0,"Infiltrating duct carcinoma, NOS",56.7,5.8261464750171115,Light,2,1,4
+65077db7-dd59-4362-9d28-d5a9154e9be0,Alive,female,asian,61,22598.0,297.0,"Infiltrating duct carcinoma, NOS",61.9,0.813141683778234,Medium,3,2,1
+4e3699da-4367-4a43-9d66-a117d3ad460d,Alive,female,white,68,25029.0,10.0,"Infiltrating duct carcinoma, NOS",68.5,0.02737850787132101,Light,3,1,4
+b6b932ce-6856-4d94-9e6c-16dfbe51906f,Alive,female,white,61,22397.0,755.0,"Infiltrating duct carcinoma, NOS",61.3,2.0670773442847366,Light,3,1,4
+a991644b-3ee6-4cda-acf0-e37de48a49fc,Alive,female,white,66,24232.0,10.0,"Infiltrating duct carcinoma, NOS",66.3,0.02737850787132101,Light,2,1,4
+bfa3dbc0-361c-400e-8c10-0aca7049fce9,Alive,female,white,55,20173.0,373.0,Mucinous adenocarcinoma,55.2,1.0212183436002737,Light,2,1,4
+d111c4ab-b39a-4a7c-8d8e-cb342bc10627,Alive,female,black or african american,67,24779.0,742.0,"Metaplastic carcinoma, NOS",67.8,2.0314852840520192,Dark,5,0,2
+d13fb44b-291b-4ea4-920c-142daa8d1989,Alive,female,black or african american,76,27964.0,511.0,"Infiltrating duct carcinoma, NOS",76.6,1.3990417522245038,Dark,6,0,2
+4d120899-9a80-4736-b097-285e9e261bcb,Alive,female,white,84,30958.0,475.0,"Infiltrating duct carcinoma, NOS",84.8,1.3004791238877482,Light,2,1,4
+91b09291-5944-4691-a0d8-7d1ccc649b9b,Alive,female,black or african american,46,16829.0,293.0,"Infiltrating duct carcinoma, NOS",46.1,0.8021902806297057,Dark,5,0,2
+e36e985d-2c44-4e14-854a-7dbca4bb0304,Alive,female,white,78,28715.0,1001.0,"Lobular carcinoma, NOS",78.6,2.7405886379192332,Light,3,1,4
+17c1d42c-cb84-4655-a4cd-b54bae17ecaf,Alive,female,white,58,21514.0,275.0,"Infiltrating duct carcinoma, NOS",58.9,0.7529089664613279,Light,3,1,4
+4da999a0-ef41-4a0b-b1d1-446b39cc855a,Alive,female,white,52,19073.0,607.0,"Infiltrating duct carcinoma, NOS",52.2,1.6618754277891854,Light,3,1,4
+87e09544-eddb-473b-8617-212407ce644e,Alive,female,asian,34,12528.0,2541.0,"Infiltrating duct carcinoma, NOS",34.3,6.95687885010267,Medium,4,2,1
+17d9e646-6ab3-40b3-a0bc-2c834d3c3213,Alive,female,white,36,13467.0,4052.0,"Infiltrating duct carcinoma, NOS",36.9,11.093771389459274,Light,2,1,4
+a68a3361-48b4-4bd0-999d-b4cc3d43eb4a,Alive,female,white,67,24731.0,516.0,"Infiltrating duct carcinoma, NOS",67.7,1.4127310061601643,Light,2,1,4
+599c3701-df7a-4a75-a347-fa9b510dd242,Alive,female,white,46,16961.0,1548.0,"Infiltrating duct carcinoma, NOS",46.4,4.238193018480493,Light,3,1,4
+c0892598-1f7b-4f23-9cd8-731f797753d5,Alive,female,white,63,23058.0,666.0,"Infiltrating duct carcinoma, NOS",63.1,1.8234086242299794,Light,3,1,4
+c1e704d6-a33b-4891-90bd-992b0040c075,Alive,female,asian,68,24877.0,394.0,"Lobular carcinoma, NOS",68.1,1.0787132101300478,Medium,3,2,1
+c2b104ee-f914-4e79-9e1b-56bf88157472,Alive,female,white,65,23878.0,1009.0,"Infiltrating duct carcinoma, NOS",65.4,2.7624914442162902,Light,1,1,4
+b3bb8fd6-ee54-4813-b042-2bbe70115382,Alive,female,white,39,14494.0,2255.0,"Infiltrating duct carcinoma, NOS",39.7,6.1738535249828885,Light,2,1,4
+c397e6c2-ba3a-4f5e-a258-c140611192fe,Alive,female,white,56,20717.0,1321.0,Infiltrating duct and lobular carcinoma,56.7,3.6167008898015056,Light,3,1,4
+1a18974d-967c-4727-b42e-12ae7be66589,Alive,female,white,49,18038.0,8556.0,"Infiltrating duct carcinoma, NOS",49.4,23.42505133470226,Light,3,1,4
+5ed024e8-d05e-4c65-9441-eda9930ccc82,Alive,female,black or african american,50,18362.0,722.0,"Metaplastic carcinoma, NOS",50.3,1.9767282683093772,Dark,5,0,2
+c54d5507-bba5-4a1e-8885-3c3b1eed13c1,Alive,female,white,64,23576.0,49.0,"Infiltrating duct carcinoma, NOS",64.5,0.13415468856947296,Light,2,1,4
+9f6be944-83de-42ab-8738-f0022f475e61,Alive,female,black or african american,58,21534.0,3342.0,"Infiltrating duct carcinoma, NOS",59.0,9.149897330595483,Dark,5,0,2
+c5891c7a-fd24-4891-8f51-373967e4a6dd,Alive,female,white,56,20468.0,622.0,"Infiltrating duct carcinoma, NOS",56.0,1.702943189596167,Light,3,1,4
+c632675e-e8af-43cd-8744-5be3754c1c14,Alive,female,white,66,24219.0,1662.0,"Infiltrating duct carcinoma, NOS",66.3,4.550308008213553,Light,3,1,4
+c65b835a-2d38-4250-a173-0780d2c2cf58,Alive,female,white,51,18985.0,300.0,Infiltrating duct and lobular carcinoma,52.0,0.8213552361396304,Light,3,1,4
+a0576d44-9add-429b-9eeb-f7b234b7385f,Alive,female,white,35,13004.0,2109.0,"Infiltrating duct carcinoma, NOS",35.6,5.774127310061601,Light,2,1,4
+b09643c2-ded5-4346-b3c5-90a48f88a02e,Alive,female,white,57,20956.0,865.0,"Lobular carcinoma, NOS",57.4,2.3682409308692676,Light,2,1,4
+c744fc13-3aca-4245-9e24-abd368cc8bef,Alive,female,white,52,19152.0,1728.0,"Infiltrating duct carcinoma, NOS",52.4,4.731006160164271,Light,1,1,4
+c836951b-3ffb-4e20-8504-0eccb7d50dd4,Alive,female,white,66,24319.0,322.0,"Infiltrating duct carcinoma, NOS",66.6,0.8815879534565366,Light,1,1,4
+c85f080a-1075-41df-959f-1b514a11b3c4,Alive,female,white,47,17224.0,526.0,"Infiltrating duct carcinoma, NOS",47.2,1.4401095140314852,Light,3,1,4
+afb9418e-91eb-4db1-aacf-12bd946c9ba0,Alive,female,not reported,67,24746.0,0.0,"Infiltrating duct carcinoma, NOS",67.8,0.0,Unknown,5,3,3
+a1674d7b-787a-45c4-bf16-1b7d0efce207,Alive,female,white,61,22524.0,595.0,"Infiltrating duct carcinoma, NOS",61.7,1.6290212183436004,Light,3,1,4
+029ce650-5e5a-4100-8596-cd94300e7ef5,Alive,female,black or african american,44,16195.0,1179.0,"Infiltrating duct carcinoma, NOS",44.3,3.2279260780287475,Dark,6,0,2
+64d4dfae-8d91-464b-adc3-80ba7caf54ae,Alive,female,white,56,20574.0,1269.0,"Infiltrating duct carcinoma, NOS",56.3,3.4743326488706368,Light,2,1,4
+c49e3b18-fd88-48f4-8b01-300692ceb367,Alive,female,asian,82,29966.0,411.0,"Infiltrating duct carcinoma, NOS",82.0,1.1252566735112937,Medium,4,2,1
+53d0af48-d7ea-42c9-8695-c614b89b415b,Alive,female,white,77,28177.0,703.0,"Infiltrating duct carcinoma, NOS",77.1,1.9247091033538672,Light,3,1,4
+53ff5893-7d5e-4bcb-be9c-665fa34b7824,Alive,female,white,63,23266.0,908.0,"Infiltrating duct carcinoma, NOS",63.7,2.485968514715948,Light,3,1,4
+a4903de8-6cf5-4541-8ec7-065beace8b44,Alive,female,white,61,23708.0,,Not Reported,64.9,,Light,1,1,4
+55262fcb-1b01-4480-b322-36570430c917,Alive,female,black or african american,50,18538.0,4005.0,"Infiltrating duct carcinoma, NOS",50.8,10.965092402464066,Dark,6,0,2
+c710f4ab-fbd9-42ed-95d4-4e6d51207f38,Alive,male,white,65,23980.0,1191.0,"Infiltrating duct carcinoma, NOS",65.7,3.260780287474333,Light,1,1,4
+79126e88-9cf8-45ff-bf91-a98da3b304d7,Alive,female,white,45,16627.0,2650.0,"Lobular carcinoma, NOS",45.5,7.255304585900069,Light,3,1,4
+5580b21a-2cdb-4777-ad79-6e06654144f5,Alive,female,white,38,13985.0,393.0,"Infiltrating duct carcinoma, NOS",38.3,1.0759753593429158,Light,2,1,4
+3a0775a0-61ae-43f2-b5f6-629a44355c2f,Alive,female,white,58,21198.0,2645.0,"Infiltrating duct carcinoma, NOS",58.0,7.241615331964408,Light,1,1,4
+56230e4a-29ca-4f37-a0f9-730dbdfb6fa2,Alive,female,black or african american,51,18806.0,250.0,"Infiltrating duct carcinoma, NOS",51.5,0.6844626967830253,Dark,6,0,2
+8e11c5ec-c15a-48d4-85ac-b7b08a9ed827,Alive,female,white,47,17521.0,568.0,Infiltrating lobular mixed with other types of carcinoma,48.0,1.5550992470910336,Light,2,1,4
+ad7fcc89-82a3-48aa-8461-581c1a857677,Alive,female,asian,41,15289.0,3011.0,"Infiltrating duct carcinoma, NOS",41.9,8.243668720054757,Medium,3,2,1
+d34471a1-b367-4f8a-b35a-c5901c4f5503,Alive,female,black or african american,41,15302.0,1604.0,"Infiltrating duct carcinoma, NOS",41.9,4.39151266255989,Dark,5,0,2
+d3a75976-67d3-40fa-9f6f-cf2a3d7b773c,Alive,female,white,64,23380.0,1569.0,"Infiltrating duct carcinoma, NOS",64.0,4.295687885010267,Light,2,1,4
+3a711140-1b89-4611-9992-3861e3d0e01a,Alive,female,not reported,66,24288.0,0.0,"Infiltrating duct carcinoma, NOS",66.5,0.0,Unknown,4,3,3
+d67cd793-2931-429a-9084-2f3c4c8be7ad,Alive,female,white,62,22872.0,1925.0,"Infiltrating duct carcinoma, NOS",62.6,5.270362765229295,Light,2,1,4
+d48e9f25-f083-4f88-a92d-c12d9f765ba6,Alive,female,white,50,18296.0,364.0,"Lobular carcinoma, NOS",50.1,0.9965776865160849,Light,3,1,4
+9c55032f-4db7-4026-ae83-8d060dd8e3fe,Alive,female,white,58,21327.0,439.0,"Lobular carcinoma, NOS",58.4,1.2019164955509924,Light,2,1,4
+ca20249f-b7ea-4fd9-9ecb-34f74755ae35,Alive,female,white,68,25000.0,488.0,"Lobular carcinoma, NOS",68.4,1.3360711841204653,Light,2,1,4
+d5d8e76e-2f2a-49bc-ba0a-d51283611b16,Alive,female,white,59,21895.0,1683.0,"Infiltrating duct carcinoma, NOS",59.9,4.607802874743326,Light,3,1,4
+cf0e7e4e-b857-4db5-9ae2-551a899f77be,Alive,female,white,69,25305.0,9.0,"Infiltrating duct carcinoma, NOS",69.3,0.024640657084188913,Light,2,1,4
+d5e9a403-88ce-40fc-bb85-80cf3f8ff6bc,Alive,female,white,48,17879.0,532.0,"Infiltrating duct carcinoma, NOS",49.0,1.4565366187542779,Light,1,1,4
+e74aea7c-ca14-49df-b5cf-dacb839ac27a,Alive,female,white,61,22355.0,1203.0,Infiltrating duct and lobular carcinoma,61.2,3.293634496919918,Light,1,1,4
+6f89509c-f802-482e-b4da-94553aa76fe9,Alive,female,white,65,24046.0,4894.0,"Lobular carcinoma, NOS",65.8,13.399041752224504,Light,3,1,4
+d6f911b5-e895-43f8-8f86-0ac2f1bc6fae,Alive,female,white,41,15027.0,660.0,"Infiltrating duct carcinoma, NOS",41.1,1.8069815195071868,Light,2,1,4
+dcd5860c-7e3a-44f3-a732-fe92fe3fe300,Alive,female,white,68,25158.0,10.0,"Infiltrating duct carcinoma, NOS",68.9,0.02737850787132101,Light,2,1,4
+d7808cbc-4b8c-467b-b2c3-f48d05b9ecab,Alive,female,not reported,76,28003.0,1217.0,"Infiltrating duct carcinoma, NOS",76.7,3.3319644079397674,Unknown,3,3,3
+aa60fa8d-c374-40e0-af2d-b007701e67e3,Alive,female,black or african american,61,22416.0,441.0,"Infiltrating duct carcinoma, NOS",61.4,1.2073921971252566,Dark,5,0,2
+2e32f31f-9817-4935-b259-96c59936ee33,Alive,female,white,44,16403.0,1648.0,"Infiltrating duct carcinoma, NOS",44.9,4.511978097193703,Light,1,1,4
+747083ff-0703-431b-aad4-f2adff739516,Alive,female,white,81,29820.0,149.0,"Infiltrating duct carcinoma, NOS",81.6,0.4079397672826831,Light,2,1,4
+d8ecba6a-9fff-4993-a799-9a8d2aea524e,Alive,female,white,59,21628.0,3247.0,"Infiltrating duct carcinoma, NOS",59.2,8.889801505817934,Light,2,1,4
+5c59028f-b8fa-4811-8314-be3eaed5f364,Alive,female,black or african american,62,22844.0,760.0,"Infiltrating duct carcinoma, NOS",62.5,2.080766598220397,Dark,5,0,2
+d9627184-b972-4e00-8c11-b0b946ac357a,Alive,female,white,74,27160.0,588.0,"Lobular carcinoma, NOS",74.4,1.6098562628336757,Light,2,1,4
+0f7ab21b-1fd0-45e0-9a47-17c4691eb84f,Alive,female,white,34,12671.0,428.0,"Infiltrating duct carcinoma, NOS",34.7,1.1718001368925393,Light,3,1,4
+d9dc3b59-613d-469e-8b4f-6c5a557eb26a,Alive,female,black or african american,61,22520.0,532.0,"Infiltrating duct carcinoma, NOS",61.7,1.4565366187542779,Dark,5,0,2
+72e486b8-a866-4916-b2e4-8b4bb5dcd92d,Alive,female,not reported,80,29251.0,273.0,"Infiltrating duct carcinoma, NOS",80.1,0.7474332648870636,Unknown,4,3,3
+64089c20-939f-48b4-ae8b-904ad0597145,Alive,female,white,44,16163.0,1692.0,"Infiltrating duct carcinoma, NOS",44.3,4.632443531827516,Light,3,1,4
+da70cf7e-0e61-4c72-b4c5-c408569d11b8,Alive,female,white,62,22672.0,313.0,Mucinous adenocarcinoma,62.1,0.8569472963723477,Light,2,1,4
+c0b7b798-3383-4a45-a455-9eca5810739e,Alive,female,white,60,21922.0,1035.0,"Lobular carcinoma, NOS",60.0,2.833675564681725,Light,2,1,4
+daf62b56-6dd2-4ab7-adaa-f296bb86a0a5,Alive,male,white,68,24875.0,1864.0,"Infiltrating duct carcinoma, NOS",68.1,5.103353867214237,Light,3,1,4
+db62d9c7-8343-4771-84fc-146d2e307bb8,Alive,female,white,45,16642.0,3430.0,"Infiltrating duct carcinoma, NOS",45.6,9.390828199863108,Light,3,1,4
+db8d38ab-cc61-49ee-863d-40060112f2af,Alive,female,not reported,66,24137.0,0.0,"Infiltrating duct carcinoma, NOS",66.1,0.0,Unknown,3,3,3
+23f438bd-1dbb-4d46-972f-1e8e74ddbd37,Alive,female,white,60,25567.0,,"Lobular carcinoma, NOS",70.0,,Light,3,1,4
+316625b8-a217-4829-90d1-dfd9cb7e4bc3,Alive,female,not reported,35,12965.0,365.0,"Infiltrating duct carcinoma, NOS",35.5,0.999315537303217,Unknown,4,3,3
+87f03d04-e651-4a6e-aea6-1c946aa46202,Alive,female,white,78,28699.0,1519.0,"Infiltrating duct carcinoma, NOS",78.6,4.158795345653662,Light,1,1,4
+dc15a8ae-991e-421c-bc70-70e94f79dd17,Alive,female,white,64,23684.0,865.0,"Infiltrating duct carcinoma, NOS",64.8,2.3682409308692676,Light,2,1,4
+65cde5d5-1efc-4e30-b1bd-a93598794f2c,Alive,female,asian,62,22889.0,385.0,Mucinous adenocarcinoma,62.7,1.054072553045859,Medium,4,2,1
+dcb68327-1537-4ca6-81de-3910d0663cb8,Alive,female,asian,49,17921.0,408.0,"Lobular carcinoma, NOS",49.1,1.1170431211498972,Medium,4,2,1
+6ffd1b8c-6f0b-456a-9160-e0c8021e5897,Alive,female,black or african american,67,24735.0,275.0,"Phyllodes tumor, malignant",67.7,0.7529089664613279,Dark,5,0,2
+dcfd0b1d-5707-44a6-b225-5e8f7cea5ca1,Alive,female,not reported,64,23741.0,365.0,"Infiltrating duct carcinoma, NOS",65.0,0.999315537303217,Unknown,4,3,3
+dd43ffd9-da18-4ad3-abe7-6f443c76a717,Alive,female,white,57,21122.0,2535.0,"Infiltrating duct carcinoma, NOS",57.8,6.940451745379876,Light,1,1,4
+70ab4f23-23c4-409f-a5cc-18a010c3a24e,Alive,female,asian,58,21463.0,376.0,"Infiltrating duct carcinoma, NOS",58.8,1.0294318959616702,Medium,3,2,1
+dd6b64a8-d546-4fd1-bbbd-ac9703791cae,Alive,female,white,42,15540.0,2124.0,"Infiltrating duct carcinoma, NOS",42.5,5.815195071868583,Light,1,1,4
+0b0f9938-ce1e-4814-8821-0132d137eb9e,Alive,female,white,54,20077.0,404.0,Infiltrating lobular mixed with other types of carcinoma,55.0,1.106091718001369,Light,1,1,4
+718db047-9f32-48c4-98c9-515218441bca,Alive,female,white,74,27341.0,1138.0,"Infiltrating duct carcinoma, NOS",74.9,3.1156741957563314,Light,1,1,4
+719082cc-1ebe-4a51-a659-85a59db1d77d,Alive,female,not reported,41,14976.0,607.0,"Infiltrating duct carcinoma, NOS",41.0,1.6618754277891854,Unknown,3,3,3
+71f97b63-c970-44ee-98c2-e02e663d5a40,Alive,female,white,54,19729.0,3261.0,"Infiltrating duct carcinoma, NOS",54.0,8.928131416837783,Light,2,1,4
+7241b3d4-31ee-4fd2-a4a5-35a9d5f37d6a,Alive,female,white,46,17039.0,984.0,"Lobular carcinoma, NOS",46.7,2.6940451745379876,Light,1,1,4
+726c6892-0dce-4869-a7a7-cc44c26fe843,Alive,female,white,49,18038.0,592.0,Infiltrating lobular mixed with other types of carcinoma,49.4,1.620807665982204,Light,2,1,4
+0d03055c-186b-418a-b614-e2035757bc3b,Alive,female,white,77,28178.0,371.0,Intraductal papillary adenocarcinoma with invasion,77.1,1.0157426420260096,Light,3,1,4
+733a2a0f-b37a-4b81-b49e-3c0f30d1eb37,Alive,female,white,34,12642.0,1686.0,"Infiltrating duct carcinoma, NOS",34.6,4.616016427104722,Light,2,1,4
+0e1d0d46-7a7b-4538-95dd-b9fc20a15aec,Alive,female,white,53,19627.0,1133.0,"Infiltrating duct carcinoma, NOS",53.7,3.1019849418206706,Light,2,1,4
+73ccc949-01b7-48d3-a7c4-c4bcd261672a,Alive,female,white,45,16750.0,710.0,"Infiltrating duct carcinoma, NOS",45.9,1.943874058863792,Light,1,1,4
+6d4860b2-21c6-4b7b-9093-2f32700d0612,Alive,female,black or african american,40,14853.0,973.0,"Infiltrating duct carcinoma, NOS",40.7,2.6639288158795345,Dark,5,0,2
+7455d832-ad66-40df-85d7-3a7051c4498d,Alive,female,white,63,23021.0,2263.0,"Infiltrating duct carcinoma, NOS",63.0,6.195756331279945,Light,1,1,4
+6ddaee34-46eb-490c-bd13-f0ab963c4322,Alive,female,white,63,23041.0,3361.0,"Lobular carcinoma, NOS",63.1,9.201916495550993,Light,1,1,4
+74f31744-0aed-4633-beec-4e203315f0b7,Alive,female,white,41,15078.0,2403.0,"Infiltrating duct carcinoma, NOS",41.3,6.579055441478439,Light,1,1,4
+2680da86-c977-4611-b75f-df015283c023,Alive,female,white,64,23397.0,1467.0,"Infiltrating duct carcinoma, NOS",64.1,4.016427104722792,Light,1,1,4
+271404de-24e8-43f6-806b-fb510c1124c4,Alive,female,white,57,21183.0,4233.0,"Infiltrating duct carcinoma, NOS",58.0,11.589322381930184,Light,1,1,4
+996bd3f0-d767-4eff-9c82-99fcb5a3006a,Alive,female,white,50,18346.0,1631.0,"Infiltrating duct carcinoma, NOS",50.2,4.465434633812457,Light,1,1,4
+99927651-34be-4795-893a-128d8a1fdb30,Alive,female,white,47,17420.0,3112.0,"Infiltrating duct carcinoma, NOS",47.7,8.5201916495551,Light,2,1,4
+9ac44381-5d43-4f63-aa3f-7703bfc923c9,Alive,female,white,54,19849.0,1220.0,"Infiltrating duct carcinoma, NOS",54.3,3.3401779603011637,Light,1,1,4
+28911b97-42bf-4189-9961-522fc0aeebc6,Alive,female,white,80,29331.0,620.0,"Lobular carcinoma, NOS",80.3,1.6974674880219027,Light,2,1,4
+9ba11ea8-97d3-464a-90a4-ec1151be9088,Alive,female,black or african american,30,11199.0,8.0,"Infiltrating duct carcinoma, NOS",30.7,0.02190280629705681,Dark,6,0,2
+298d33da-15af-48cb-b30f-eaf54e7baa43,Alive,female,white,53,19596.0,659.0,"Infiltrating duct carcinoma, NOS",53.7,1.8042436687200547,Light,2,1,4
+29fdc464-f216-4828-b456-829f71436e27,Alive,female,asian,62,22962.0,1561.0,"Infiltrating duct carcinoma, NOS",62.9,4.27378507871321,Medium,3,2,1
+9ced0c70-c46c-4f98-8f48-840defe4b8b1,Alive,female,white,60,21918.0,502.0,"Infiltrating duct carcinoma, NOS",60.0,1.374401095140315,Light,3,1,4
+9d8702e1-1a36-4bca-85ab-5f11d58d7953,Alive,female,white,46,16858.0,752.0,"Lobular carcinoma, NOS",46.2,2.0588637919233403,Light,2,1,4
+a53dd490-e0ba-419a-90c6-b905e241a8e5,Alive,female,white,77,28416.0,706.0,Mucinous adenocarcinoma,77.8,1.9329226557152634,Light,1,1,4
+a6cb373a-1604-4e25-bd81-da6c3e4f06ee,Alive,female,white,41,15284.0,1351.0,"Infiltrating duct carcinoma, NOS",41.8,3.698836413415469,Light,3,1,4
+9de678e5-67ed-4453-a98b-7ac351d5d0f1,Alive,female,white,79,29104.0,1079.0,"Infiltrating duct carcinoma, NOS",79.7,2.954140999315537,Light,3,1,4
+9f3cc92b-fa22-478e-a2e4-6b4c8afb93d6,Alive,female,white,69,25370.0,747.0,"Infiltrating duct carcinoma, NOS",69.5,2.0451745379876796,Light,1,1,4
+ba39bfbc-5cac-4f6c-b55c-4eee3466ee93,Alive,female,white,64,23628.0,2381.0,"Metaplastic carcinoma, NOS",64.7,6.5188227241615335,Light,1,1,4
+ba80db4e-d899-4da4-ae49-5263d98e1530,Alive,female,white,48,17729.0,,"Lobular carcinoma, NOS",48.5,,Light,3,1,4
+bac4b268-c781-4408-96d8-43a48fec7418,Alive,female,white,45,16658.0,612.0,"Lobular carcinoma, NOS",45.6,1.675564681724846,Light,2,1,4
+67526f5a-3a30-45b2-aeab-2b21a855063e,Alive,female,white,55,20123.0,1550.0,"Infiltrating duct carcinoma, NOS",55.1,4.243668720054757,Light,1,1,4
+baf5e81f-2322-41ec-9053-b9559a7993bc,Alive,female,white,63,23300.0,214.0,"Infiltrating duct carcinoma, NOS",63.8,0.5859000684462696,Light,1,1,4
+bb1de798-0c02-437e-b539-33cb556d3993,Alive,female,white,61,22332.0,504.0,"Lobular carcinoma, NOS",61.1,1.379876796714579,Light,2,1,4
+69054195-9e93-49e5-b820-69b0091cc2d4,Alive,female,not reported,60,22157.0,396.0,"Infiltrating duct carcinoma, NOS",60.7,1.0841889117043122,Unknown,4,3,3
+6951fe6a-d7d1-4f41-85af-76655b5d1f62,Alive,female,asian,53,19432.0,380.0,Mucinous adenocarcinoma,53.2,1.0403832991101984,Medium,4,2,1
+be9bf36a-12e1-4386-addf-1686dc8b49de,Alive,female,white,51,18875.0,707.0,"Infiltrating duct carcinoma, NOS",51.7,1.9356605065023955,Light,2,1,4
+becedbfd-b2aa-4dde-b7f4-29e6f59ec32c,Alive,female,white,71,26052.0,1800.0,"Infiltrating duct carcinoma, NOS",71.3,4.9281314168377826,Light,2,1,4
+69a68fbc-e43d-4652-85ee-693211bded47,Alive,female,white,41,15055.0,1000.0,"Lobular carcinoma, NOS",41.2,2.737850787132101,Light,2,1,4
+4da7abaf-ac7a-41c0-8033-5780a398545c,Alive,female,white,41,15085.0,1229.0,"Infiltrating duct carcinoma, NOS",41.3,3.3648186173853527,Light,1,1,4
+6a186809-3422-41d0-83d2-867145830936,Alive,female,white,56,20606.0,1682.0,"Lobular carcinoma, NOS",56.4,4.605065023956194,Light,1,1,4
+6adca853-1b09-47ff-814c-47b732a76d96,Alive,female,asian,49,18140.0,385.0,"Infiltrating duct carcinoma, NOS",49.7,1.054072553045859,Medium,4,2,1
+6b4e0262-f589-4532-b578-9f2d76c19d90,Alive,female,white,71,26042.0,345.0,Mucinous adenocarcinoma,71.3,0.944558521560575,Light,3,1,4
+75b5529b-565a-4eba-918a-910b2f441d32,Alive,female,white,85,31223.0,584.0,"Infiltrating duct carcinoma, NOS",85.5,1.5989048596851472,Light,2,1,4
+76ace6aa-0505-442c-978a-f889cf2d44bb,Alive,female,white,53,19415.0,2489.0,"Lobular carcinoma, NOS",53.2,6.8145106091718,Light,1,1,4
+76bd9bb9-9a8b-4a90-bb7c-eafe76472ee4,Alive,female,black or african american,74,27280.0,812.0,Mucinous adenocarcinoma,74.7,2.223134839151266,Dark,5,0,2
+6cd9baf5-bbe0-4c1e-a87f-c53b3af22890,Alive,female,white,79,29555.0,,Not Reported,80.9,,Light,2,1,4
+784de7ac-8424-42eb-83d4-a1bebaa42b97,Alive,male,white,77,28198.0,242.0,"Infiltrating duct carcinoma, NOS",77.2,0.6625598904859685,Light,1,1,4
+78582fbc-dcc7-48ae-9f95-5271c9bc5b72,Alive,female,white,48,17759.0,3957.0,"Infiltrating duct carcinoma, NOS",48.6,10.833675564681725,Light,1,1,4
+0fe1419e-a005-407c-8ae7-15c4c1579539,Alive,female,white,51,18788.0,1025.0,"Infiltrating duct carcinoma, NOS",51.4,2.8062970568104038,Light,2,1,4
+786e8dbe-442e-4551-87b3-b4c333b04dd4,Alive,female,white,82,30025.0,701.0,"Metaplastic carcinoma, NOS",82.2,1.919233401779603,Light,1,1,4
+790ff5db-b7f3-4946-aaed-305f66b1dd6a,Alive,female,black or african american,52,19314.0,1820.0,"Infiltrating duct carcinoma, NOS",52.9,4.982888432580425,Dark,5,0,2
+7aedb46a-48ec-4e0e-8baa-c9ea4c4a7cf1,Alive,female,white,50,18508.0,523.0,"Infiltrating duct carcinoma, NOS",50.7,1.431895961670089,Light,1,1,4
+1174f6e4-ffbe-4e59-a000-8d861c968369,Alive,female,asian,34,12443.0,2442.0,"Infiltrating duct carcinoma, NOS",34.1,6.685831622176591,Medium,3,2,1
+7bcf6d42-eb8f-4aa2-825b-38671d4f9e3a,Alive,female,white,47,19895.0,,Infiltrating duct and lobular carcinoma,54.5,,Light,1,1,4
+1285eb55-415c-494a-aa58-936f0427cdd0,Alive,female,black or african american,75,27684.0,2033.0,"Infiltrating duct carcinoma, NOS",75.8,5.566050650239562,Dark,6,0,2
+7d9d3522-ec3b-4efe-8c8e-c0e675276ef5,Alive,female,white,67,24493.0,923.0,"Infiltrating duct carcinoma, NOS",67.1,2.5270362765229293,Light,2,1,4
+001cef41-ff86-4d3f-a140-a647ac4b10a1,Alive,female,white,60,22279.0,337.0,"Infiltrating duct carcinoma, NOS",61.0,0.9226557152635181,Light,2,1,4
+7e8713bd-0b17-4f09-9696-bc29707d862b,Alive,female,black or african american,57,21038.0,679.0,"Infiltrating duct carcinoma, NOS",57.6,1.8590006844626967,Dark,6,0,2
+7f0bbba1-9bc3-45db-bdda-eb3319bb15d2,Alive,female,white,62,22656.0,2372.0,"Infiltrating duct carcinoma, NOS",62.0,6.494182067077344,Light,2,1,4
+0130d616-885e-4a6c-9d03-2f17dd692a05,Alive,female,white,74,27106.0,503.0,"Infiltrating duct carcinoma, NOS",74.2,1.377138945927447,Light,2,1,4
+43c0bec6-6fac-47b1-83cb-200a15a932be,Alive,female,black or african american,51,18942.0,878.0,"Infiltrating duct carcinoma, NOS",51.9,2.403832991101985,Dark,6,0,2
+01b9f68b-4de4-4374-b4f2-8a0685e18153,Alive,female,white,88,32375.0,,Not Reported,88.6,,Light,2,1,4
+43d5632e-7272-4aad-9496-7f5a99671223,Alive,female,white,51,18756.0,631.0,"Infiltrating duct carcinoma, NOS",51.4,1.727583846680356,Light,2,1,4
+441919eb-8c9f-478c-bda3-8de4f8295e8a,Alive,female,asian,67,24710.0,363.0,"Infiltrating duct carcinoma, NOS",67.7,0.9938398357289527,Medium,3,2,1
+02bed00f-bef7-4fb7-b243-540354990e45,Alive,female,american indian or alaska native,55,20227.0,521.0,"Infiltrating duct carcinoma, NOS",55.4,1.4264202600958247,Unknown,3,3,0
+44bec761-b603-49c0-8634-f6bfe0319bb1,Alive,female,not reported,40,14653.0,2184.0,"Infiltrating duct carcinoma, NOS",40.1,5.979466119096509,Unknown,4,3,3
+035cb359-eac3-484a-9e88-3ddc739440a3,Alive,female,white,62,22833.0,2156.0,"Infiltrating duct carcinoma, NOS",62.5,5.90280629705681,Light,2,1,4
+03c143e0-d8a1-4d60-a4a3-df0501fc6b6e,Alive,female,white,70,25714.0,1059.0,Infiltrating duct and lobular carcinoma,70.4,2.8993839835728954,Light,2,1,4
+56bbd282-b88d-4730-9242-ab97d08dc83a,Alive,female,white,58,21288.0,3091.0,"Infiltrating duct carcinoma, NOS",58.3,8.462696783025326,Light,2,1,4
+048549cf-d0a5-4743-a0a1-2004f7cc2b08,Alive,female,black or african american,46,16983.0,987.0,"Lobular carcinoma, NOS",46.5,2.702258726899384,Dark,6,0,2
+57cf380d-ab52-467f-b9ae-740b2f84c820,Alive,female,black or african american,41,15158.0,635.0,"Infiltrating duct carcinoma, NOS",41.5,1.7385352498288844,Dark,6,0,2
+a272171b-44f5-47a5-89be-7520413c01ad,Alive,female,not reported,85,31351.0,1371.0,"Infiltrating duct carcinoma, NOS",85.8,3.753593429158111,Unknown,3,3,3
+a2934508-3daf-49e2-b14f-ed9b7693f96f,Alive,female,white,52,19160.0,2190.0,"Lobular carcinoma, NOS",52.5,5.9958932238193015,Light,1,1,4
+a82d0a57-4383-473d-b334-d13b278404b1,Alive,female,black or african american,40,14638.0,1106.0,"Infiltrating duct carcinoma, NOS",40.1,3.028062970568104,Dark,5,0,2
+a851ca14-7bbf-455b-a054-ec03979a4247,Alive,female,white,42,15533.0,98.0,"Infiltrating duct carcinoma, NOS",42.5,0.2683093771389459,Light,1,1,4
+a855c228-a263-44df-87a0-cbc32187e3f5,Alive,female,asian,53,19629.0,5.0,"Infiltrating duct carcinoma, NOS",53.7,0.013689253935660506,Medium,3,2,1
+a8a33ba9-0976-4e19-b0e9-fa5ba4d4eaa8,Alive,female,black or african american,51,18927.0,567.0,"Infiltrating duct carcinoma, NOS",51.8,1.5523613963039014,Dark,5,0,2
+3dbc8d60-3a97-47b2-91d0-c18fb46b4365,Alive,female,white,85,31173.0,727.0,Mucinous adenocarcinoma,85.3,1.9904175222450375,Light,1,1,4
+5e4187c9-98f8-4bdb-a8da-6a914e96f47a,Alive,female,not reported,58,21338.0,549.0,"Infiltrating duct carcinoma, NOS",58.4,1.5030800821355237,Unknown,5,3,3
+3e9f93c0-aa79-4b4c-bd6c-b3325912362a,Alive,female,white,41,15286.0,227.0,"Infiltrating duct carcinoma, NOS",41.9,0.621492128678987,Light,1,1,4
+5ea18514-51ad-4844-abea-15e82f0b10c9,Alive,female,white,40,14868.0,598.0,"Infiltrating duct carcinoma, NOS",40.7,1.6372347707049966,Light,2,1,4
+6e126b73-d3e8-4641-a128-306f3b313e40,Alive,female,white,84,31657.0,,Not Reported,86.7,,Light,2,1,4
+5f5964a8-8e07-4620-98f0-93d162dbc31e,Alive,female,not reported,45,17443.0,,Not Reported,47.8,,Unknown,5,3,3
+6f18f96e-c0c9-4cc4-9fb2-cba8949d5402,Alive,female,black or african american,89,32872.0,0.0,"Infiltrating duct carcinoma, NOS",90.0,0.0,Dark,5,0,2
+6f4c8d30-47fb-47df-9eb7-4e5881e3711e,Alive,female,white,79,29113.0,675.0,"Lobular carcinoma, NOS",79.7,1.8480492813141685,Light,2,1,4
+a1872011-b928-4189-ac02-e87506c20bca,Alive,female,white,59,22441.0,,"Infiltrating duct carcinoma, NOS",61.4,,Light,3,1,4
+a1da9db1-db11-4f4d-a249-c738db81b87e,Alive,female,white,54,20052.0,10.0,"Infiltrating duct carcinoma, NOS",54.9,0.02737850787132101,Light,3,1,4
+8cccf160-93e9-48a5-9b8b-54aa50153142,Alive,female,not reported,68,24929.0,334.0,"Infiltrating duct carcinoma, NOS",68.3,0.9144421629021219,Unknown,3,3,3
+058dcb78-bed1-40c3-a6c2-a0cc40065531,Alive,female,white,37,13680.0,1516.0,"Infiltrating duct carcinoma, NOS",37.5,4.1505817932922655,Light,1,1,4
+452672e8-b6d9-45b5-bb02-e88e03e2dd66,Alive,female,not reported,70,25659.0,30.0,"Lobular carcinoma, NOS",70.3,0.08213552361396304,Unknown,4,3,3
+4649dee3-b668-44cd-ab97-3834de3ef8f8,Alive,female,white,61,22341.0,163.0,"Infiltrating duct carcinoma, NOS",61.2,0.4462696783025325,Light,3,1,4
+0772cdbe-8b0d-452b-8df1-bd70d1306363,Alive,female,white,46,16911.0,759.0,"Infiltrating duct carcinoma, NOS",46.3,2.078028747433265,Light,2,1,4
+4842bac3-abaa-4900-871f-f2c3ba6457f5,Alive,female,white,63,23347.0,339.0,"Infiltrating duct carcinoma, NOS",63.9,0.9281314168377823,Light,2,1,4
+08306ede-e74b-4be9-b768-7fd98647b6ac,Alive,female,white,50,18334.0,575.0,"Lobular carcinoma, NOS",50.2,1.5742642026009583,Light,1,1,4
+491b6364-1223-474f-816f-e248c8c841e2,Alive,female,white,63,23366.0,1156.0,"Infiltrating duct carcinoma, NOS",64.0,3.164955509924709,Light,3,1,4
+08740d7f-5a5e-4dfa-bd48-7fbf228a7a28,Alive,female,black or african american,50,18584.0,6292.0,"Infiltrating duct carcinoma, NOS",50.9,17.22655715263518,Dark,5,0,2
+4922cddc-575c-4b8a-8245-ce5f6876760c,Alive,female,white,70,25693.0,78.0,"Infiltrating duct carcinoma, NOS",70.3,0.2135523613963039,Light,2,1,4
+08de63a2-7b76-43c3-80dc-df748b1d81bc,Alive,female,white,45,16458.0,554.0,"Infiltrating duct carcinoma, NOS",45.1,1.516769336071184,Light,2,1,4
+495f9eda-b9be-4eef-bae1-766a4bfbd68e,Alive,female,white,36,13409.0,1842.0,"Infiltrating duct carcinoma, NOS",36.7,5.04312114989733,Light,2,1,4
+09a5e9fd-d816-4f8c-baa9-0e40ba607b16,Alive,female,black or african american,49,18161.0,594.0,"Infiltrating duct carcinoma, NOS",49.7,1.626283367556468,Dark,5,0,2
+ccb22ecc-6e18-44b8-ad48-6ab51314b16e,Alive,female,white,74,27313.0,425.0,"Infiltrating duct carcinoma, NOS",74.8,1.163586584531143,Light,1,1,4
+0a2a3529-f645-4967-9a58-89ee20b8bb62,Alive,female,white,40,14894.0,630.0,"Infiltrating duct carcinoma, NOS",40.8,1.7248459958932238,Light,2,1,4
+cd3faa15-743c-476f-ab0d-f205b14126b6,Alive,female,white,42,15507.0,5156.0,Infiltrating duct and lobular carcinoma,42.5,14.116358658453114,Light,1,1,4
+2b36853f-34d3-47c5-ba6a-e5a93233d2b1,Alive,female,white,56,20479.0,1.0,"Metaplastic carcinoma, NOS",56.1,0.0027378507871321013,Light,2,1,4
+2bcacfd1-6a45-4b96-9b80-2ad569b1ab45,Alive,female,black or african american,82,30101.0,574.0,"Infiltrating duct carcinoma, NOS",82.4,1.571526351813826,Dark,5,0,2
+cd7fb75e-1c2e-4201-86d3-b3ba21f476bf,Alive,female,not reported,59,21555.0,64.0,"Lobular carcinoma, NOS",59.0,0.17522245037645448,Unknown,4,3,3
+cdab777e-62de-4d51-92af-b6eb089c111f,Alive,female,white,40,14858.0,509.0,Intraductal papillary adenocarcinoma with invasion,40.7,1.3935660506502396,Light,2,1,4
+cdd8c046-fd97-482a-a11f-2217b321c4d1,Alive,female,black or african american,47,17456.0,931.0,"Infiltrating duct carcinoma, NOS",47.8,2.5489390828199863,Dark,5,0,2
+ce887e90-0660-4f44-a3a4-b3b894cb7eda,Alive,female,asian,56,20774.0,1.0,"Infiltrating duct carcinoma, NOS",56.9,0.0027378507871321013,Medium,3,2,1
+ce9e0309-9756-42d2-ae94-d91264a79498,Alive,female,not reported,59,21773.0,748.0,"Infiltrating duct carcinoma, NOS",59.6,2.0479123887748116,Unknown,3,3,3
+2cf68894-168b-458b-af4f-53cad72989a8,Alive,female,white,44,16363.0,765.0,"Infiltrating duct carcinoma, NOS",44.8,2.0944558521560577,Light,1,1,4
+2d0d7ff4-7866-4ae1-9cf1-a3c7f4cbe48d,Alive,female,white,61,22510.0,2362.0,"Infiltrating duct carcinoma, NOS",61.6,6.466803559206023,Light,3,1,4
+2d29a4ac-98e7-4663-9dd6-5681bc32ac2e,Alive,female,black or african american,55,20401.0,1102.0,"Lobular carcinoma, NOS",55.9,3.0171115674195756,Dark,5,0,2
+de531604-bd1a-49df-96c2-6de3ae703f1d,Alive,female,white,86,31748.0,448.0,"Infiltrating duct carcinoma, NOS",86.9,1.2265571526351813,Light,3,1,4
+cffe832c-8a81-4cdb-8b25-df7f35afafdc,Alive,female,black or african american,63,23314.0,629.0,"Infiltrating duct carcinoma, NOS",63.8,1.7221081451060918,Dark,5,0,2
+de75d0b9-0f47-4732-8df5-05c350cfcd32,Alive,female,white,55,20347.0,10.0,"Infiltrating duct carcinoma, NOS",55.7,0.02737850787132101,Light,2,1,4
+dfe6db17-cf45-488e-bd3c-b8433d7343ca,Alive,female,not reported,35,13039.0,709.0,"Infiltrating duct carcinoma, NOS",35.7,1.9411362080766599,Unknown,5,3,3
+1fef9454-b3e8-4d9d-a9aa-aa1f1a32b80c,Alive,female,white,51,18771.0,1640.0,"Infiltrating duct carcinoma, NOS",51.4,4.490075290896646,Light,2,1,4
+e0929c47-cff3-4518-a188-8764af01073a,Alive,female,white,52,19237.0,2311.0,"Infiltrating duct carcinoma, NOS",52.7,6.327173169062286,Light,2,1,4
+2021ed1f-dc75-4701-b8b8-1386466e4802,Alive,female,white,65,23972.0,702.0,"Infiltrating duct carcinoma, NOS",65.6,1.9219712525667352,Light,2,1,4
+e1119732-3e97-4259-bc69-dc4269d9496d,Alive,female,white,48,17871.0,2767.0,"Infiltrating duct carcinoma, NOS",48.9,7.575633127994524,Light,2,1,4
+e112b452-8850-4353-bfed-0dbdc243290b,Alive,female,white,67,24692.0,11.0,"Infiltrating duct carcinoma, NOS",67.6,0.030116358658453114,Light,3,1,4
+e1786e78-ac46-46fd-8ce0-8f7456e46082,Alive,female,black or african american,61,22544.0,596.0,"Infiltrating duct carcinoma, NOS",61.7,1.6317590691307324,Dark,6,0,2
+2199b7a1-bd47-4bb5-b36a-a3e291e3e259,Alive,female,white,60,22077.0,8008.0,"Infiltrating duct carcinoma, NOS",60.4,21.924709103353866,Light,3,1,4
+8f34cb4c-5798-47a0-89a1-f0ee26a8ae93,Alive,female,white,61,22625.0,588.0,"Lobular carcinoma, NOS",61.9,1.6098562628336757,Light,1,1,4
+8f912a40-3251-4e1f-ae65-1f93d71f9881,Alive,female,black or african american,56,20664.0,1229.0,"Infiltrating duct carcinoma, NOS",56.6,3.3648186173853527,Dark,6,0,2
+2399caeb-ead2-4003-af38-809db4ac2e2b,Alive,female,not reported,84,30984.0,31.0,"Infiltrating duct carcinoma, NOS",84.8,0.08487337440109514,Unknown,3,3,3
+23b7aaea-1119-4b10-aa1a-0ae255d2f2a6,Alive,female,white,74,27389.0,1318.0,"Lobular carcinoma, NOS",75.0,3.6084873374401094,Light,1,1,4
+23c31c2e-336c-4878-a476-cf8d811b4875,Alive,female,black or african american,65,24075.0,586.0,"Infiltrating duct carcinoma, NOS",65.9,1.6043805612594113,Dark,6,0,2
+91da548b-5c64-49c3-a44a-1ef115f53311,Alive,female,white,84,30950.0,,"Lobular carcinoma in situ, NOS",84.7,,Light,2,1,4
+92529232-8504-4541-b7e2-4df8f497c413,Alive,female,white,57,21056.0,538.0,"Infiltrating duct carcinoma, NOS",57.6,1.4729637234770705,Light,3,1,4
+23e7a78a-1d56-4ad1-9bb4-72ec0178aff2,Alive,female,white,83,30489.0,2383.0,"Infiltrating duct carcinoma, NOS",83.5,6.524298425735798,Light,1,1,4
+24046547-d038-4616-b190-52ac93f4965f,Alive,female,white,74,27392.0,1419.0,"Infiltrating duct carcinoma, NOS",75.0,3.885010266940452,Light,3,1,4
+a2db9dd1-44d5-48b5-817c-a21a85fadb21,Alive,female,black or african american,39,14383.0,416.0,"Infiltrating duct carcinoma, NOS",39.4,1.1389459274469542,Dark,5,0,2
+929acc67-b8bf-4f65-9110-380e44ab66b7,Alive,female,black or african american,47,17352.0,529.0,"Infiltrating duct carcinoma, NOS",47.5,1.4483230663928817,Dark,5,0,2
+a32cb96a-78bf-456e-a6ab-2d47b2c67ad4,Alive,female,white,56,20625.0,2365.0,"Infiltrating duct carcinoma, NOS",56.5,6.4750171115674195,Light,1,1,4
+93ed6066-b567-4e1c-ab81-23370f9d3452,Alive,female,white,62,22703.0,777.0,"Infiltrating duct carcinoma, NOS",62.2,2.127310061601643,Light,3,1,4
+a4c59287-1ad5-46a5-8040-e591e6ce064f,Alive,female,white,54,19778.0,21.0,"Infiltrating duct carcinoma, NOS",54.1,0.057494866529774126,Light,2,1,4
+94b03e1d-50ec-4680-bffd-7086d1536ff2,Alive,female,white,70,25825.0,3159.0,"Lobular carcinoma, NOS",70.7,8.648870636550308,Light,2,1,4
+1d75e89d-4b01-443c-be54-749c7a667bf4,Alive,female,white,64,23395.0,519.0,"Lobular carcinoma, NOS",64.1,1.4209445585215605,Light,2,1,4
+9536bec0-dae0-4d63-a1b3-956741835243,Alive,female,white,71,26281.0,618.0,Infiltrating duct mixed with other types of carcinoma,72.0,1.6919917864476386,Light,3,1,4
+95873e61-afdb-496c-9f77-3f9beb008cda,Alive,female,white,48,17588.0,926.0,"Lobular carcinoma, NOS",48.2,2.535249828884326,Light,2,1,4
+4f608829-ffc4-4527-886e-6bc764ab29f5,Alive,female,white,73,26988.0,1871.0,"Infiltrating duct carcinoma, NOS",73.9,5.122518822724161,Light,3,1,4
+95c53f69-0f05-4348-822a-571f3d757001,Alive,female,white,59,21575.0,533.0,"Infiltrating duct carcinoma, NOS",59.1,1.45927446954141,Light,2,1,4
+95cef916-5545-455b-920c-773a54fc7676,Alive,female,white,53,19723.0,734.0,"Lobular carcinoma, NOS",54.0,2.0095824777549622,Light,2,1,4
+515b1400-e896-4f2a-81bd-70895441a0bd,Alive,female,not reported,66,24442.0,791.0,"Infiltrating duct carcinoma, NOS",66.9,2.1656399726214923,Unknown,4,3,3
+96312510-c126-485d-8109-ed81844a1dc3,Alive,female,white,56,20504.0,16.0,"Infiltrating duct carcinoma, NOS",56.1,0.04380561259411362,Light,2,1,4
+9646160a-f1f9-437b-8c7d-efb0b57bfb97,Alive,female,white,79,29131.0,303.0,Infiltrating duct and lobular carcinoma,79.8,0.8295687885010267,Light,2,1,4
+530ad151-703d-4638-851f-0b5111ff318b,Alive,female,white,41,15166.0,552.0,"Infiltrating duct carcinoma, NOS",41.5,1.51129363449692,Light,2,1,4
+96e1fc6d-693f-4f4f-b5f7-8d6e1c6c43f8,Alive,female,white,80,29345.0,1996.0,"Lobular carcinoma, NOS",80.3,5.464750171115674,Light,1,1,4
+539bbbed-43fb-4fef-9c67-6406f58b186a,Alive,female,white,51,18684.0,59.0,"Infiltrating duct carcinoma, NOS",51.2,0.16153319644079397,Light,3,1,4
+97677fd7-8523-48c5-a8ce-614fd4010551,Alive,female,black or african american,74,27191.0,455.0,"Infiltrating duct carcinoma, NOS",74.4,1.2457221081451062,Dark,5,0,2
+97862b8e-9f76-4b19-a865-156a9c00fb1e,Alive,female,black or african american,60,21918.0,952.0,"Lobular carcinoma, NOS",60.0,2.6064339493497606,Dark,6,0,2
+13b860c3-8048-4dc9-9eb0-7480bc660837,Alive,female,white,52,19309.0,10.0,"Infiltrating duct carcinoma, NOS",52.9,0.02737850787132101,Light,3,1,4
+1549dc64-3dab-43fc-96e9-b07d520957e1,Alive,female,white,40,14731.0,488.0,"Infiltrating duct carcinoma, NOS",40.3,1.3360711841204653,Light,2,1,4
+15ff4b02-bb69-4d24-8a07-b82f428e428d,Alive,female,white,62,22997.0,322.0,"Lobular carcinoma, NOS",63.0,0.8815879534565366,Light,1,1,4
+35bd694d-1dd2-466f-ab27-03320614b40e,Alive,female,black or african american,36,13458.0,714.0,"Infiltrating duct carcinoma, NOS",36.8,1.9548254620123204,Dark,6,0,2
+360d1d6d-cf3e-4c78-b36f-ef5e3160aa6b,Alive,female,white,45,16688.0,1914.0,"Infiltrating duct carcinoma, NOS",45.7,5.240246406570842,Light,2,1,4
+36449392-de76-4ee9-bc09-627a07e18727,Alive,female,not reported,47,17440.0,1522.0,"Infiltrating duct carcinoma, NOS",47.7,4.167008898015058,Unknown,4,3,3
+17baef7c-d97d-4b98-ab53-503ef856523d,Alive,female,white,37,13836.0,1139.0,"Infiltrating duct carcinoma, NOS",37.9,3.1184120465434635,Light,1,1,4
+80f3f48a-cc21-415c-b181-c77e7ba1c563,Alive,female,not reported,69,25355.0,31.0,"Infiltrating duct carcinoma, NOS",69.4,0.08487337440109514,Unknown,4,3,3
+3dbe99d1-e3b8-4ee2-b6a8-2e2e12c6fbe9,Alive,female,not reported,81,29858.0,458.0,"Infiltrating duct carcinoma, NOS",81.7,1.2539356605065024,Unknown,5,3,3
+dfefb76a-ec6b-4cd2-9d45-2e1e4befc7ea,Alive,female,not reported,73,26724.0,1492.0,"Infiltrating duct carcinoma, NOS",73.2,4.084873374401095,Unknown,3,3,3
+cb9f5e50-f49d-4899-8895-9367afcc1015,Alive,female,white,63,23294.0,906.0,"Infiltrating duct carcinoma, NOS",63.8,2.4804928131416837,Light,2,1,4
+0a017f15-1c6b-45e7-8d55-e0a71df1b2e8,Alive,female,not reported,59,21641.0,1004.0,"Infiltrating duct carcinoma, NOS",59.2,2.74880219028063,Unknown,3,3,3
+5c9d8163-a68e-43ce-9cba-effb7405761e,Alive,female,white,89,32872.0,0.0,"Lobular carcinoma, NOS",90.0,0.0,Light,2,1,4
+09765b0a-94f6-47d2-af56-93368084ac3a,Alive,female,white,66,24242.0,1165.0,"Infiltrating duct carcinoma, NOS",66.4,3.189596167008898,Light,3,1,4
+16fc3677-0393-4ed1-ad3f-c8355f056369,Alive,female,white,63,23225.0,1471.0,"Lobular carcinoma, NOS",63.6,4.027378507871321,Light,3,1,4
+33fe5833-d7a0-43d7-a03d-56985ea448a6,Alive,female,white,63,23103.0,225.0,"Infiltrating duct carcinoma, NOS",63.3,0.6160164271047228,Light,2,1,4
+e17c565c-9857-4df3-a352-903b53093c85,Alive,female,white,56,20694.0,1528.0,"Infiltrating duct carcinoma, NOS",56.7,4.183436002737851,Light,1,1,4
+03da7a65-fa2f-42cb-a709-5fe8736f21d3,Alive,female,white,57,20861.0,643.0,"Infiltrating duct carcinoma, NOS",57.1,1.7604380561259412,Light,3,1,4
+e6f527a2-38eb-457e-bb39-3c5b9c0bcbec,Alive,female,white,52,19085.0,672.0,Intraductal papillary adenocarcinoma with invasion,52.3,1.839835728952772,Light,1,1,4
+f39edd06-1016-4e8e-a42e-12f7e699ddc5,Alive,female,not reported,61,22797.0,,Not Reported,62.4,,Unknown,5,3,3
+b3354b72-2637-4edc-9a95-e55801d3ac13,Alive,female,asian,34,12715.0,375.0,"Infiltrating duct carcinoma, NOS",34.8,1.0266940451745379,Medium,3,2,1
+70fc011c-0f22-4026-9d72-87351126203a,Alive,female,white,70,25747.0,2012.0,"Lobular carcinoma, NOS",70.5,5.508555783709788,Light,2,1,4
+3afa1e93-1df8-4e4c-aaa4-557463f4bb77,Alive,female,white,62,22708.0,1085.0,"Infiltrating duct carcinoma, NOS",62.2,2.97056810403833,Light,2,1,4
+b379bfb8-284e-4300-8325-85cfd6809cb8,Alive,female,white,47,17275.0,554.0,"Infiltrating duct carcinoma, NOS",47.3,1.516769336071184,Light,2,1,4
+1502c7d7-1535-4e56-9f34-30623acd50d5,Alive,female,white,67,24791.0,1326.0,"Infiltrating duct carcinoma, NOS",67.9,3.6303901437371664,Light,2,1,4
+566792ae-f853-4a47-856d-f02cdcfcb18a,Alive,female,not reported,69,25263.0,426.0,"Infiltrating duct carcinoma, NOS",69.2,1.1663244353182751,Unknown,3,3,3
+389e5b18-8f89-41a9-9fa5-efd4172836e2,Alive,female,black or african american,54,19746.0,-7.0,"Medullary carcinoma, NOS",54.1,-0.019164955509924708,Dark,5,0,2
+dbcad60f-86c7-41e3-b0ae-baa39c9f83dd,Alive,female,asian,63,23337.0,508.0,"Infiltrating duct carcinoma, NOS",63.9,1.3908281998631074,Medium,4,2,1
+7875018b-91dc-4ab1-83b0-ee3883e2816e,Alive,female,white,62,23006.0,1270.0,"Infiltrating duct carcinoma, NOS",63.0,3.477070499657769,Light,2,1,4
+67c5f371-3fa9-47c5-8b15-c2dd9acc8519,Alive,female,white,58,21488.0,1005.0,"Metaplastic carcinoma, NOS",58.8,2.751540041067762,Light,2,1,4
+791c5768-f0f5-4ab6-86eb-998e5c4b49e3,Alive,female,white,40,14854.0,1836.0,"Infiltrating duct carcinoma, NOS",40.7,5.026694045174538,Light,2,1,4
+e3c336f5-c32f-4c5d-81fb-e2408ae145b2,Alive,female,white,73,26993.0,1988.0,"Infiltrating duct carcinoma, NOS",73.9,5.4428473648186175,Light,3,1,4
+8cf8b620-7ab6-4b6e-84bc-ff5a83f381fa,Alive,female,not reported,65,23926.0,577.0,"Infiltrating duct carcinoma, NOS",65.5,1.5797399041752225,Unknown,3,3,3
+84b7ccf2-8ab3-4b21-96de-800d231bc072,Alive,female,white,50,18501.0,1120.0,"Lobular carcinoma, NOS",50.7,3.0663928815879533,Light,2,1,4
+75113445-d2d6-44a0-866c-c9175e6d214b,Alive,female,black or african american,37,13805.0,767.0,"Infiltrating duct carcinoma, NOS",37.8,2.099931553730322,Dark,6,0,2
+332148f5-f070-4c20-8eb1-4d8c0673aa52,Alive,female,white,56,20715.0,395.0,"Infiltrating duct carcinoma, NOS",56.7,1.08145106091718,Light,2,1,4
+636b0a90-c8c2-4ad6-a77d-6cd428a826d1,Alive,female,white,59,21562.0,1186.0,"Infiltrating duct carcinoma, NOS",59.0,3.247091033538672,Light,1,1,4
+39de7761-e762-4811-b95c-8216b79ae06b,Alive,female,white,36,13208.0,170.0,"Infiltrating duct carcinoma, NOS",36.2,0.4654346338124572,Light,3,1,4
+b7a4df9a-4e25-4550-9c10-338ca1921c2f,Alive,female,white,66,24181.0,186.0,"Infiltrating duct carcinoma, NOS",66.2,0.5092402464065708,Light,3,1,4
+d2219a3f-4c55-4dee-9b08-c6f330dd1acf,Alive,male,white,84,30859.0,1882.0,"Infiltrating duct carcinoma, NOS",84.5,5.152635181382615,Light,2,1,4
+b9c6c069-2a2b-4cc7-a398-dc45c132d979,Alive,female,black or african american,72,26550.0,614.0,"Infiltrating duct carcinoma, NOS",72.7,1.68104038329911,Dark,6,0,2
+1c40b84e-a0e3-429f-a48c-21566cf881c0,Alive,female,white,51,18984.0,431.0,"Infiltrating duct carcinoma, NOS",52.0,1.1800136892539357,Light,3,1,4
+42378dbc-a123-4cf9-8502-165e89fda271,Alive,female,black or african american,32,12006.0,1010.0,"Infiltrating duct carcinoma, NOS",32.9,2.7652292950034223,Dark,6,0,2
+b4e4fea2-b802-4a86-923e-3fcbd3c708fe,Alive,female,white,66,24315.0,1148.0,"Infiltrating duct carcinoma, NOS",66.6,3.143052703627652,Light,1,1,4
+a947a945-4721-45cc-bc45-13b8ea41c10e,Alive,female,white,56,20539.0,418.0,"Lobular carcinoma, NOS",56.2,1.1444216290212184,Light,2,1,4
+28e9048a-e540-42de-a1f4-4ef894fccc4c,Alive,female,white,49,18084.0,3172.0,"Infiltrating duct carcinoma, NOS",49.5,8.684462696783026,Light,2,1,4
+87b85935-a058-44ad-8fb6-8511130eaffe,Alive,female,white,84,30830.0,461.0,Mucinous adenocarcinoma,84.4,1.2621492128678986,Light,2,1,4
+3558dec7-eae3-4a41-a217-266c6a4535fb,Alive,female,white,57,21064.0,3121.0,"Infiltrating duct carcinoma, NOS",57.7,8.544832306639288,Light,2,1,4
+70f34c5c-3671-44c8-9469-99f9786efec1,Alive,female,white,56,20488.0,482.0,"Infiltrating duct carcinoma, NOS",56.1,1.319644079397673,Light,3,1,4
+8631969d-4ac6-4fe1-9db3-d47db604494a,Alive,female,white,51,18936.0,1063.0,"Infiltrating duct carcinoma, NOS",51.8,2.9103353867214237,Light,3,1,4
+281f70c5-876f-44b3-84fb-f2302f85e74c,Alive,female,not reported,63,23164.0,31.0,"Infiltrating duct carcinoma, NOS",63.4,0.08487337440109514,Unknown,4,3,3
+5cbf0aea-ebb4-4005-bdd5-14ef2dc6826c,Alive,female,white,67,24831.0,965.0,"Infiltrating duct carcinoma, NOS",68.0,2.642026009582478,Light,1,1,4
+9435447e-d65f-408b-863b-6576b1d652dd,Alive,female,white,59,23461.0,,Not Reported,64.2,,Light,3,1,4
+8360cec6-daf6-41c9-9a4f-7fc03c958dcc,Alive,female,black or african american,52,19216.0,752.0,"Infiltrating duct carcinoma, NOS",52.6,2.0588637919233403,Dark,6,0,2
+0b23b5fe-6c7e-4297-bc55-f93fcb830ac4,Alive,female,white,41,15122.0,307.0,"Infiltrating duct carcinoma, NOS",41.4,0.840520191649555,Light,3,1,4
+56033839-35d5-4d72-8b8c-400cb345263d,Alive,female,white,47,17300.0,1239.0,"Infiltrating duct carcinoma, NOS",47.4,3.3921971252566734,Light,3,1,4
+0d146997-cfdc-4587-888c-e876fc455c80,Alive,female,white,49,18060.0,222.0,"Lobular carcinoma, NOS",49.4,0.6078028747433265,Light,2,1,4
+6e7d5ec6-a469-467c-b748-237353c23416,Alive,female,white,55,22019.0,,"Lobular carcinoma, NOS",60.3,,Light,2,1,4
+34126cd5-cc38-4198-8582-c14fb5db7acb,Alive,female,white,49,18151.0,600.0,"Lobular carcinoma, NOS",49.7,1.6427104722792607,Light,2,1,4
+0bf6e772-1aa1-4f54-9a50-c1414e2f22f3,Alive,female,white,49,18053.0,1935.0,"Lobular carcinoma, NOS",49.4,5.297741273100616,Light,1,1,4
+f7ab565c-83b5-4988-b9be-8a46f65dca8c,Alive,female,white,54,19966.0,611.0,"Infiltrating duct carcinoma, NOS",54.7,1.672826830937714,Light,2,1,4
+670f5022-5066-48f1-8472-5670129a1e0f,Alive,female,white,56,20585.0,3603.0,"Lobular carcinoma, NOS",56.4,9.86447638603696,Light,3,1,4
+bc0bc70f-c6cf-4dbc-9dc3-8b7bc5f381a4,Alive,female,white,45,16757.0,2140.0,"Infiltrating duct carcinoma, NOS",45.9,5.859000684462697,Light,1,1,4
+d2694b09-7844-4496-865c-5d3d8cd03330,Alive,female,white,62,22976.0,552.0,"Infiltrating duct carcinoma, NOS",62.9,1.51129363449692,Light,2,1,4
+6af6d256-a753-46d2-b611-e4094ff265aa,Alive,female,white,69,25477.0,532.0,"Lobular carcinoma, NOS",69.8,1.4565366187542779,Light,2,1,4
+01f50abf-fc15-446e-9d07-edeecc545a32,Alive,female,white,58,21348.0,640.0,"Infiltrating duct carcinoma, NOS",58.4,1.7522245037645447,Light,2,1,4
+a20fa2c4-a502-47e3-bfaa-2ec4cce3a859,Alive,female,not reported,73,26998.0,243.0,Infiltrating duct and lobular carcinoma,73.9,0.6652977412731006,Unknown,5,3,3
+f1692f4b-ce1b-4fc5-ac55-1022ecae0d1e,Alive,female,asian,52,19010.0,383.0,"Infiltrating duct carcinoma, NOS",52.0,1.0485968514715949,Medium,3,2,1
+e666081b-caaf-4e8b-9446-807be71201a5,Alive,female,white,31,11379.0,1611.0,"Infiltrating duct carcinoma, NOS",31.2,4.4106776180698155,Light,2,1,4
+9e894662-b718-40f8-8899-b5e036cfbd76,Alive,female,white,76,27977.0,224.0,"Infiltrating duct carcinoma, NOS",76.6,0.6132785763175906,Light,2,1,4
+2b22db1d-54a1-4b9e-a86e-a174cf51d95c,Alive,female,white,55,20374.0,2612.0,"Infiltrating duct carcinoma, NOS",55.8,7.151266255989048,Light,2,1,4
+e3fcbf94-d3ef-4a37-aa45-5297f96af9eb,Alive,female,white,69,25499.0,5062.0,"Lobular carcinoma, NOS",69.8,13.859000684462696,Light,1,1,4
+972447aa-4332-47e7-bddd-2eb699dbb664,Alive,female,white,46,17141.0,2558.0,"Infiltrating duct carcinoma, NOS",46.9,7.003422313483915,Light,2,1,4
+9e3de467-fb0d-4021-89f8-b34968a7c7bc,Alive,female,white,46,17135.0,3202.0,"Lobular carcinoma, NOS",46.9,8.766598220396988,Light,1,1,4
+06ef6e83-5583-45b9-a0bd-edea68943083,Alive,female,black or african american,72,26399.0,1208.0,"Infiltrating duct carcinoma, NOS",72.3,3.3073237508555784,Dark,5,0,2
+5f90d955-bbb0-4b44-a5ac-ba6fda9ca0fb,Alive,female,not reported,63,23011.0,396.0,"Infiltrating duct carcinoma, NOS",63.0,1.0841889117043122,Unknown,4,3,3
+32861b48-83f5-43a3-bb54-45215ad2c5d6,Alive,female,white,46,16882.0,1119.0,"Lobular carcinoma, NOS",46.2,3.0636550308008212,Light,2,1,4
+4d0fec97-e024-4608-a0cc-426a3decc7b1,Alive,female,white,50,18611.0,2838.0,"Infiltrating duct carcinoma, NOS",51.0,7.770020533880904,Light,3,1,4
+27ba717a-5cd8-440a-9345-4ae086f6efca,Alive,female,white,63,23327.0,912.0,"Infiltrating duct carcinoma, NOS",63.9,2.4969199178644765,Light,2,1,4
+33b7bf50-53f4-4839-aa83-9665f85671d8,Alive,female,white,64,23570.0,1732.0,"Infiltrating duct carcinoma, NOS",64.5,4.741957563312799,Light,2,1,4
+af577366-0258-49e7-b6af-e70056c081a4,Alive,female,white,58,21397.0,1112.0,Infiltrating duct and lobular carcinoma,58.6,3.0444900752908968,Light,2,1,4
+752f4773-5a12-4485-a1f6-896e148ddf4d,Alive,female,white,73,26862.0,639.0,"Infiltrating duct carcinoma, NOS",73.5,1.7494866529774127,Light,1,1,4
+3fc3755d-a3f8-4e2c-813f-ff124f2a75c1,Alive,female,black or african american,70,25666.0,1596.0,"Infiltrating duct carcinoma, NOS",70.3,4.369609856262834,Dark,6,0,2
+0adf59c6-581a-475d-a2f4-40aa40060b5b,Alive,female,not reported,68,25110.0,579.0,"Lobular carcinoma, NOS",68.7,1.5852156057494866,Unknown,3,3,3
+71fc8941-4cfb-47ea-a533-873d38f8c95c,Alive,female,white,37,13671.0,1855.0,"Infiltrating duct carcinoma, NOS",37.4,5.078713210130048,Light,3,1,4
+0dc337fa-da8b-42c4-b9a7-fb76d81c161f,Alive,female,white,50,18401.0,1196.0,"Infiltrating duct carcinoma, NOS",50.4,3.274469541409993,Light,1,1,4
+0dd8dbc1-c48b-4e7c-b401-57101f724967,Alive,female,black or african american,67,24813.0,421.0,"Infiltrating duct carcinoma, NOS",67.9,1.1526351813826146,Dark,5,0,2
+da9c10ea-c13f-4d88-8b94-a0cbc106d036,Alive,female,white,77,28304.0,1288.0,"Infiltrating duct carcinoma, NOS",77.5,3.5263518138261465,Light,1,1,4
+c6086936-7544-4da0-8c0c-114166848483,Alive,female,white,71,26007.0,196.0,"Infiltrating duct carcinoma, NOS",71.2,0.5366187542778919,Light,3,1,4
+2b19a6b4-7a17-4452-b4aa-6fc18adc0c3c,Alive,female,white,34,12668.0,606.0,"Infiltrating duct carcinoma, NOS",34.7,1.6591375770020533,Light,2,1,4
+1dafdd64-527d-4d46-bbdf-7a97774f881b,Alive,female,white,63,23031.0,2236.0,"Infiltrating duct carcinoma, NOS",63.1,6.121834360027378,Light,2,1,4
+0045349c-69d9-4306-a403-c9c1fa836644,Alive,female,white,70,25833.0,259.0,Adenoid cystic carcinoma,70.7,0.7091033538672142,Light,1,1,4
+39cda4c9-e1c8-44c2-bab7-f5849c12f879,Alive,female,white,79,29211.0,1853.0,"Lobular carcinoma, NOS",80.0,5.073237508555784,Light,2,1,4
+4cf0f639-7940-48b6-8ea1-2a3494097cdb,Alive,female,asian,54,20075.0,3283.0,"Lobular carcinoma, NOS",55.0,8.988364134154688,Medium,3,2,1
+aa30ac3d-4216-45dd-a314-1ae192fafcb2,Alive,female,white,38,14119.0,3660.0,Infiltrating duct and lobular carcinoma,38.7,10.020533880903491,Light,3,1,4
+22b35927-1c3f-4f98-ba42-deafc56b677a,Alive,female,white,51,18741.0,1926.0,"Infiltrating duct carcinoma, NOS",51.3,5.2731006160164275,Light,1,1,4
+d8d7a6c2-6427-4f47-968c-6c3affba4617,Alive,female,not reported,52,19114.0,1156.0,"Infiltrating duct carcinoma, NOS",52.3,3.164955509924709,Unknown,3,3,3
+427d0648-3f77-4ffc-b52c-89855426d647,Alive,female,black or african american,62,22848.0,1474.0,"Infiltrating duct carcinoma, NOS",62.6,4.035592060232717,Dark,5,0,2
+b094e8b2-8ece-4b36-8025-18073a8b873c,Alive,female,white,38,14174.0,3506.0,Infiltrating duct mixed with other types of carcinoma,38.8,9.598904859685147,Light,2,1,4
+c2aeee6c-ba10-4cf9-b560-c739580f7bf3,Alive,female,white,54,20049.0,1876.0,"Infiltrating duct carcinoma, NOS",54.9,5.136208076659822,Light,2,1,4
+7e9c8d3c-790c-46ad-8f31-b557b7c26f69,Alive,female,white,45,16697.0,847.0,"Lobular carcinoma, NOS",45.7,2.31895961670089,Light,3,1,4
+0cf0d67c-2f7f-42a6-94f3-407d0ec46c88,Alive,female,white,63,23284.0,890.0,"Lobular carcinoma, NOS",63.7,2.43668720054757,Light,2,1,4
+66af34ea-f471-4092-aff6-9ac9a5b75b11,Alive,female,black or african american,56,20776.0,2477.0,"Infiltrating duct carcinoma, NOS",56.9,6.781656399726215,Dark,6,0,2
+0a229f95-0ea1-4d63-953e-74f5ec2f3028,Alive,female,white,59,21831.0,2190.0,"Infiltrating duct carcinoma, NOS",59.8,5.9958932238193015,Light,2,1,4
+7f2a63e6-64d5-4be1-9814-e8416fc9e688,Alive,female,white,62,22878.0,1612.0,"Infiltrating duct carcinoma, NOS",62.6,4.413415468856948,Light,2,1,4
+d6f7afc0-1558-43ad-acb1-2b5311ed2264,Alive,female,black or african american,53,19614.0,2155.0,"Infiltrating duct carcinoma, NOS",53.7,5.900068446269678,Dark,6,0,2
+4aacbc42-5ac5-4339-b9fa-c6e812084837,Alive,female,white,74,27288.0,1189.0,"Infiltrating duct carcinoma, NOS",74.7,3.2553045859000687,Light,1,1,4
+eadf8482-e60e-4307-adb7-d5c3b9fa6cae,Alive,female,black or african american,39,15744.0,,"Infiltrating duct carcinoma, NOS",43.1,,Dark,5,0,2
+8da3d6cf-381b-4d1b-93fa-41fd9d2b2e66,Alive,female,white,50,19002.0,,Not Reported,52.0,,Light,3,1,4
+016caf42-4e19-4444-ab5d-6cf1e76c4afa,Alive,female,white,61,22340.0,3248.0,"Infiltrating duct carcinoma, NOS",61.2,8.892539356605065,Light,3,1,4
+37242f5a-25ae-4b1f-9ce6-09ce1dc92539,Alive,female,black or african american,65,23845.0,626.0,"Lobular carcinoma, NOS",65.3,1.7138945927446954,Dark,5,0,2
+f51af6db-2655-47fb-9ffc-83a503a728ea,Alive,female,white,55,20381.0,10.0,"Infiltrating duct carcinoma, NOS",55.8,0.02737850787132101,Light,1,1,4
+f5539207-6534-4edc-a5a5-7666b5d16ba4,Alive,female,not reported,42,15705.0,1308.0,"Infiltrating duct carcinoma, NOS",43.0,3.5811088295687883,Unknown,4,3,3
+8240c4ae-f878-4882-aa07-7857c7ac52cf,Alive,female,white,45,16533.0,10.0,"Infiltrating duct carcinoma, NOS",45.3,0.02737850787132101,Light,2,1,4
+f5d4c2d3-cc69-4b38-8551-0917e3622a68,Alive,female,white,65,23928.0,2255.0,"Lobular carcinoma, NOS",65.5,6.1738535249828885,Light,1,1,4
+57af5c72-0d60-4a6b-b1b4-ec6dab90f80f,Alive,female,black or african american,51,18695.0,313.0,"Infiltrating duct carcinoma, NOS",51.2,0.8569472963723477,Dark,5,0,2
+5d688049-f271-40ef-813a-d37240ffe21c,Alive,female,not reported,65,23742.0,577.0,"Infiltrating duct carcinoma, NOS",65.0,1.5797399041752225,Unknown,5,3,3
+e68ebfd4-3688-4caa-9e38-7764f9258c30,Alive,female,white,65,24054.0,1563.0,"Infiltrating duct carcinoma, NOS",65.9,4.2792607802874745,Light,2,1,4
+a6a863d9-b39d-4965-b47f-79a1bcf3c976,Alive,female,white,39,14595.0,1437.0,"Infiltrating duct carcinoma, NOS",40.0,3.9342915811088295,Light,1,1,4
+f72c1d69-da35-459f-8542-59bfd6c09c23,Alive,female,white,64,23507.0,2629.0,"Infiltrating duct carcinoma, NOS",64.4,7.197809719370294,Light,1,1,4
+e98b69bc-766a-485f-b5e8-9166b8d457b3,Alive,female,not reported,76,28063.0,304.0,"Infiltrating duct carcinoma, NOS",76.8,0.8323066392881588,Unknown,3,3,3
+e9a12df9-024e-4cbc-b6bf-e4e87485fa90,Alive,female,black or african american,88,32478.0,394.0,Paget disease and infiltrating duct carcinoma of breast,88.9,1.0787132101300478,Dark,6,0,2
+ea645243-df49-4466-a255-9f3d4321e357,Alive,female,black or african american,67,24647.0,477.0,"Infiltrating duct carcinoma, NOS",67.5,1.3059548254620124,Dark,5,0,2
+c02699b5-580a-4d55-971e-f4692b2cce57,Alive,female,black or african american,42,15670.0,1712.0,"Infiltrating duct carcinoma, NOS",42.9,4.687200547570157,Dark,6,0,2
+d7195183-9fe4-4b17-bcfd-9367d2e539ce,Alive,female,white,61,26224.0,,Not Reported,71.8,,Light,1,1,4
+c72cb184-462d-4009-9cdb-848782ff8a76,Alive,female,black or african american,45,16649.0,2770.0,"Infiltrating duct carcinoma, NOS",45.6,7.58384668035592,Dark,5,0,2
+eb93df3d-9e25-4e4c-9a5d-350f296e5acf,Alive,female,white,81,29734.0,565.0,"Infiltrating duct carcinoma, NOS",81.4,1.5468856947296372,Light,1,1,4
+b6c286c6-2755-419b-87d3-59c7feda9653,Alive,female,asian,54,20053.0,380.0,"Infiltrating duct carcinoma, NOS",54.9,1.0403832991101984,Medium,3,2,1
+ebd1512a-4865-4193-97b3-f599d555759a,Alive,female,white,52,19123.0,,"Infiltrating duct carcinoma, NOS",52.4,,Light,2,1,4
+96f23d8a-be0f-4925-ba00-805dc293414c,Alive,female,white,58,21464.0,1066.0,"Infiltrating duct carcinoma, NOS",58.8,2.91854893908282,Light,3,1,4
+ec0ab947-9341-4fff-bda4-fdfb9434d508,Alive,female,white,62,23008.0,446.0,"Lobular carcinoma, NOS",63.0,1.2210814510609171,Light,3,1,4
+c7d7a770-23c0-4310-ab48-1f6152dc2849,Alive,female,white,71,26021.0,433.0,"Infiltrating duct carcinoma, NOS",71.2,1.1854893908281998,Light,2,1,4
+ec6930e5-2d83-435a-9a57-a2c5c22caf02,Alive,female,white,69,25259.0,745.0,"Infiltrating duct carcinoma, NOS",69.2,2.0396988364134154,Light,2,1,4
+a412b374-4d25-491f-b76f-ddaa989acf59,Alive,female,white,63,23371.0,803.0,Intraductal papillary adenocarcinoma with invasion,64.0,2.198494182067077,Light,1,1,4
+632984bd-dc81-42b6-b024-476cfd0bb2ae,Alive,female,white,61,22317.0,430.0,"Infiltrating duct carcinoma, NOS",61.1,1.1772758384668036,Light,1,1,4
+86a18ae0-dfb1-49c3-b5c4-67ec331d6e40,Alive,female,asian,56,20712.0,394.0,"Infiltrating duct carcinoma, NOS",56.7,1.0787132101300478,Medium,4,2,1
+2e538802-2a31-4774-89a8-c6e4381a887d,Alive,female,white,49,18002.0,616.0,"Infiltrating duct carcinoma, NOS",49.3,1.6865160848733745,Light,1,1,4
+ef4cbd38-bc79-4d60-a715-647edd2ebe9e,Alive,female,black or african american,50,18492.0,1523.0,"Lobular carcinoma, NOS",50.6,4.16974674880219,Dark,5,0,2
+eff2360e-399a-4167-ab2b-798e27bef739,Alive,female,white,54,20065.0,1047.0,"Lobular carcinoma, NOS",54.9,2.86652977412731,Light,1,1,4
+8a0ef221-8070-43fc-9d98-def90abe4871,Alive,female,white,45,16603.0,2653.0,"Infiltrating duct carcinoma, NOS",45.5,7.263518138261465,Light,1,1,4
+f04dca9e-409b-4300-b11d-12243e5d361d,Alive,female,black or african american,69,25350.0,1043.0,"Lobular carcinoma, NOS",69.4,2.855578370978782,Dark,6,0,2
+f05d314c-5ec5-4e2a-b785-9a702716f111,Alive,female,white,61,22422.0,726.0,"Infiltrating duct carcinoma, NOS",61.4,1.9876796714579055,Light,2,1,4
+67c8dc41-edcb-4563-96b3-3f93f9edcbe9,Alive,female,white,63,23215.0,412.0,"Lobular carcinoma, NOS",63.6,1.1279945242984257,Light,3,1,4
+f06f09f3-8133-4a92-ac86-fbe64295e0d8,Alive,female,white,75,27400.0,1266.0,"Infiltrating duct carcinoma, NOS",75.0,3.46611909650924,Light,3,1,4
+f0787165-6f58-4d67-b510-928eea2c4882,Alive,female,white,64,23521.0,1417.0,"Infiltrating duct carcinoma, NOS",64.4,3.8795345653661877,Light,2,1,4
+a381275f-8858-4793-a8a2-0ca9db7274c8,Alive,female,black or african american,50,18558.0,403.0,"Lobular carcinoma, NOS",50.8,1.103353867214237,Dark,5,0,2
+f130f376-5801-40f9-975d-a7e2f7b5670d,Alive,female,white,56,20570.0,1007.0,"Infiltrating duct carcinoma, NOS",56.3,2.757015742642026,Light,2,1,4
+4f04bd10-9902-4a23-b15d-4f4409d79499,Alive,female,white,64,23530.0,837.0,"Infiltrating duct carcinoma, NOS",64.4,2.291581108829569,Light,2,1,4
+f2622cdb-ac92-42b3-a1ca-67e133c3dd4a,Alive,female,white,68,25186.0,451.0,"Lobular carcinoma, NOS",69.0,1.2347707049965777,Light,1,1,4
+f2da1d3f-f226-4c99-a97e-9b26f67d7a5d,Alive,female,white,58,21394.0,860.0,"Infiltrating duct carcinoma, NOS",58.6,2.3545516769336072,Light,2,1,4
+8159ff7b-89f4-411a-9b9c-491f1cb3eb34,Alive,female,black or african american,41,15212.0,3022.0,"Infiltrating duct carcinoma, NOS",41.6,8.27378507871321,Dark,5,0,2
+02bf5203-f9cd-4c5a-97b4-e5584dc22325,Alive,female,white,61,22284.0,680.0,"Lobular carcinoma, NOS",61.0,1.8617385352498288,Light,1,1,4
+4dfc233b-ed03-4825-8089-e04cdee99996,Alive,male,white,61,22536.0,424.0,"Infiltrating duct carcinoma, NOS",61.7,1.160848733744011,Light,3,1,4
+ab34a9a2-d72d-4106-94fb-118844b1b60b,Alive,female,black or african american,62,22810.0,2695.0,"Infiltrating duct carcinoma, NOS",62.5,7.378507871321013,Dark,6,0,2
+9f80649b-a249-4fb5-97ad-059a30e13fea,Alive,female,white,49,17996.0,1363.0,"Infiltrating duct carcinoma, NOS",49.3,3.7316906228610542,Light,1,1,4
+e7bae6e7-f779-449d-92b9-66996041e00d,Alive,female,white,50,18500.0,698.0,"Infiltrating duct carcinoma, NOS",50.7,1.9110198494182067,Light,3,1,4
+f43d622f-eed5-4933-adc6-ae9ad1e33028,Alive,female,white,60,22199.0,675.0,"Infiltrating duct carcinoma, NOS",60.8,1.8480492813141685,Light,2,1,4
+2481a671-760b-428c-968d-42e25fd42ac5,Alive,female,white,66,24327.0,471.0,"Lobular carcinoma, NOS",66.6,1.2895277207392197,Light,3,1,4
+2192c1db-4718-4254-ba42-3ae7f30ad5a8,Alive,female,black or african american,64,23543.0,2426.0,"Infiltrating duct carcinoma, NOS",64.5,6.6420260095824775,Dark,6,0,2
+4d1bf9e6-5837-4aed-b568-92f014ed5a4b,Alive,female,white,56,20497.0,426.0,"Infiltrating duct carcinoma, NOS",56.1,1.1663244353182751,Light,2,1,4
+7eea2b6e-771f-44c0-9350-38f45c8dbe87,Alive,female,black or african american,68,25066.0,317.0,"Infiltrating duct carcinoma, NOS",68.6,0.8678986995208761,Dark,5,0,2
+54883111-d475-4515-ba3f-fece8a71e79e,Alive,female,white,62,22779.0,528.0,"Infiltrating duct carcinoma, NOS",62.4,1.4455852156057496,Light,1,1,4
+96457ebf-ae88-41f4-97e5-cdc3163418aa,Alive,female,white,69,25223.0,461.0,"Infiltrating duct carcinoma, NOS",69.1,1.2621492128678986,Light,2,1,4
+a076f135-be82-40fa-8516-285ed355c965,Alive,female,white,65,23992.0,1161.0,"Lobular carcinoma, NOS",65.7,3.1786447638603694,Light,2,1,4
+f3ba71f9-25f3-4784-bf2d-3aa522a0cba8,Alive,female,not reported,69,25477.0,547.0,"Infiltrating duct carcinoma, NOS",69.8,1.4976043805612593,Unknown,3,3,3
+f3cb557d-23e4-4fd1-81ca-db1a3f56d56e,Alive,female,white,33,12142.0,918.0,"Medullary carcinoma, NOS",33.2,2.513347022587269,Light,1,1,4
+18d35983-ea6a-4b70-a209-9bef37595956,Alive,female,white,48,17774.0,1534.0,"Infiltrating duct carcinoma, NOS",48.7,4.199863107460644,Light,3,1,4
+18eb4dfc-556f-4bf3-a411-4780209ed1e0,Alive,female,white,53,19479.0,1203.0,"Infiltrating duct carcinoma, NOS",53.3,3.293634496919918,Light,3,1,4
+c2a742fe-3e8b-4210-85a6-7191a1123609,Alive,female,white,61,22629.0,218.0,"Infiltrating duct carcinoma, NOS",62.0,0.5968514715947981,Light,2,1,4
+197428f7-bd77-4c5f-8119-87157b5c35b9,Alive,female,white,66,24155.0,4354.0,"Infiltrating duct carcinoma, NOS",66.1,11.92060232717317,Light,1,1,4
+1a679332-30a3-4495-a2e5-39d299e14333,Alive,female,black or african american,71,26141.0,562.0,"Lobular carcinoma, NOS",71.6,1.538672142368241,Dark,5,0,2
+dd3bfb26-b534-4917-9c4d-9fe7b6477762,Alive,female,white,43,15942.0,1449.0,Infiltrating duct and lobular carcinoma,43.6,3.9671457905544147,Light,1,1,4
+9fefbe7c-f66a-4940-843e-285cb7b392c1,Alive,female,white,57,20900.0,3001.0,"Infiltrating duct carcinoma, NOS",57.2,8.216290212183436,Light,3,1,4
+90ff48c3-b14b-4a8b-94a1-98c0bab0d27b,Alive,female,white,66,24125.0,347.0,"Lobular carcinoma, NOS",66.1,0.9500342231348392,Light,1,1,4
+c70ee5e1-4703-4996-bb5c-f4cca0fb53ba,Alive,female,white,29,10898.0,3286.0,"Infiltrating duct carcinoma, NOS",29.8,8.996577686516085,Light,2,1,4
+9d876f05-5080-4c4e-9bf5-45f631d381e5,Alive,female,not reported,80,29555.0,0.0,"Infiltrating duct carcinoma, NOS",80.9,0.0,Unknown,3,3,3
+5b2a4f11-ca46-4974-9420-59b4820920bf,Alive,female,black or african american,72,26627.0,417.0,"Infiltrating duct carcinoma, NOS",72.9,1.1416837782340863,Dark,6,0,2
+c8f39325-5382-447c-9291-a6915fc978b8,Alive,female,black or african american,70,25643.0,1780.0,"Infiltrating duct carcinoma, NOS",70.2,4.87337440109514,Dark,6,0,2
+ca76c6fc-ff30-4833-884d-3a94fe53ff17,Alive,female,white,68,24850.0,943.0,"Infiltrating duct carcinoma, NOS",68.0,2.5817932922655715,Light,3,1,4
+0ed9ad26-7fdc-4d75-93f9-d029eee94993,Alive,female,white,61,22380.0,434.0,Invasive micropapillary carcinoma,61.3,1.1882272416153319,Light,1,1,4
